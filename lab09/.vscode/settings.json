@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "titolo.h": "c",
+        "cstdlib": "c",
+        "*.tcc": "c",
+        "type_traits": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc *.c -g -o file.exe && .\\file.exe grafo.txt",
+    }
+}

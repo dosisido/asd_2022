@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "ES2.C": "cpp",
+        "stdio.h": "c"
+    }
+}

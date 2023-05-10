@@ -1,0 +1,196 @@
+\documentclass[11pt, a4paper, oneside, titlepage]{article}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{graphicx} 
+\usepackage{fancyhdr}
+\usepackage[margin=1in]{geometry}
+\usepackage{etoolbox}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+
+\definecolor{light-gray}{gray}{0.95}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{codered}{rgb}{0.69,0.25,0.26}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\newcommand{\code}[1]{\colorbox{light-gray}{\texttt{#1}}}
+
+\preto{\section}{\clearpageafterfirst}
+\preto{\subsection}{\filbreak}
+\newcommand{\clearpageafterfirst}{%
+  \gdef\clearpageafterfirst{\clearpage}%
+}
+
+\lstset{frame=n,
+    language=C,
+    aboveskip=3mm,
+    belowskip=3mm,
+    showstringspaces=false,
+    columns=flexible,
+    basicstyle={\footnotesize\ttfamily},
+    numbers=left,
+    numberstyle=\tiny\ttfamily\color{codegray},
+    commentstyle=\color{codepurple},
+    stringstyle=\color{yelloworange},
+    keywordstyle=\color{blue},
+    identifierstyle=\color{green!40!black},
+    breaklines=true,
+    breakatwhitespace=true,
+    escapeinside={@}{@},
+    showspaces=false,
+    showtabs=false,
+    tabsize=2,
+    gobble=6
+}
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Rosin s284211}
+\lhead{ASD - L08E03}
+\rfoot{\thepage}
+
+
+\title{
+  \begin{figure}[t]
+    \includegraphics[width=8cm]{logo.jpg}
+      \centering
+  \end{figure}
+  \textbf{Algoritmi e struttire dati\break laboratorio 08 - esercizio 03}
+}
+\author{Riccardo Rosin - s284211}
+\date{Gen 2023}
+
+\begin{document}
+
+    % titolo
+    \begin{titlepage}
+        \maketitle
+    \end{titlepage}
+
+    % indice
+    \tableofcontents
+    \pagebreak
+
+
+
+    \section{Struttura dati}
+    Come richiesto dalla consegna, la struttura dati è organizzata su tre livelli:
+    \begin{itemize}
+        \item Un primo livello per la collezione dei titoli
+        \item Un secondo livello per la collezione selle sue transazioni 
+        \item Un livello aggiuntivo, alla base di entrambi, per rappresentare la data
+    \end{itemize}
+    I titoli e le transazioni sono due istanze del modulo ITEM visto a lezione, denominati rispettivamente \textbf{\textit{Titolo}} e \textbf{\textit{Quotazione}}, 
+    raggruppati nei rispettivi moduli.
+
+
+    \subsection{Modulo Data}
+    La data e l'ora sono rappresentate assieme come quasi ADT di tipo \textbf{\textit{Datetime}}, implementata come segue.
+    \begin{lstlisting}
+        typedef struct date_time{
+            int year;
+            unsigned int month;
+            unsigned int day;
+            unsigned int hour;
+            unsigned int minute;
+        } Datetime;
+    \end{lstlisting}
+    Il modulo contiene le funzioni base di lettura e scrittura, oltre a quelle di confronto tra due date.\\
+    Per necessità, sono state create delle funzioni per gestire soltanto i campi dedicati alla data, ma non le corrispettive per l'ora, 
+    in quanto all'interno del programma verrà ignorato il campo orario. 
+
+    \subsection{Modulo Titolo}
+    Il modulo \textbf{\textit{Titolo}} è una rivisitazione del modulo \textbf{\textit{Item}} visto a lezione, implementato come ADT di prima classe.
+    \begin{lstlisting}
+        typedef struct titolo_s{
+            char codice[LEN];
+            BST qt;
+        }* Titolo;
+    \end{lstlisting}
+    L'item è identificato univocamente dal campo \textit{codice}, definito nel header del modulo come tipo \textbf{\textit{KeyT}}, 
+    mentre il campo \textit{qt} è il puntatore alla struttura di secondo livello che salva le varie transazioni.\\
+    Il modulo implementa le classiche funzioni del tipo Item.
+    
+    \subsection{Modulo List}
+    Il primo livello della struttura dati è organizzato in una lista ordinata rappresentata come ADT di prima calsse di tipo \textbf{\textit{List}}.
+    \begin{lstlisting}
+        typedef struct node_s{
+            Titolo val;
+            struct node_s *prev;
+            struct node_s *next;
+        } node, *link;
+        
+        typedef struct list_s{
+            link head;
+            link tail;
+            int N;
+            } *List;
+        \end{lstlisting}
+        La lista è implementata come una lista doppiamente concatenata, con un puntatore alla testa e un puntatore alla coda per generalità, 
+        anche se questo non comporta un alcun miglioramento alle prestazioni della struttura.
+
+    \subsection{Modulo Quotazione}
+    L'algoritmo è stato impostato per non memorizzare le singole transazioni, in quanto non necessarie per la richiesta. Ogni elemento rappresenta l'insieme giornaliero
+    delle operazioni, memorizzando le informazioni strettamente necessarie per il calcolo richiesto.
+    \begin{lstlisting}
+        typedef struct quatazione_giornaliera{
+            Datetime dt;
+            unsigned int numerator;
+            unsigned int denominator;
+            unsigned short int null;
+        } Quotazione;
+    \end{lstlisting}
+    Il tipo \textbf{\textit{Quotazione}} è rappresentato come quasi ADT, ed utilizza il campo \textit{dt} come identificatore univoco dell'elemento, 
+    identificato con il tipo \textbf{\textit{KeyQ}}.\\
+    I campi \textit{numerator} e \textit{denominator} sono i numeratore e il denominatore della quotazione giornaliera.
+    Per evitare di salvare tutte la varie operazioni, il tipo \textbf{\textit{Quotazione}} implementa direttamente il calcolo richiesto, 
+    per fare ciò è stato necessario studiare la Funzione: essa viene spezzata nel numeratore e denominatore che vengono salvati e manipolati indipendentemente,
+    La funzione si poteva scomporre in altri modi che però utilizzavano la virgola mobile, ed essendo imprecisa, si è preferito ricadere su una rappresentazione attraverso interi.\\
+    Il campo \textit{null} è un flag che indica se l'item è stato inizializzato o meno.
+    
+    \subsection{Modulo BST}
+    Il secondo livello della struttura dati è organizzato in un albero binario di ricerca, rappresentato come ADT di prima classe di tipo \textbf{\textit{BST}}.
+    \begin{lstlisting}
+        typedef struct BSTnode {
+            Quotazione item;
+            link p;
+            link l;
+            link r;
+            int N;
+        }* link;
+        struct binarysearchtree {
+            link root;
+            link z;
+        };
+    \end{lstlisting}
+    Il modulo implementa, in aggiunta alle funzioni fornite, una funzione di ricerca del massimo in un intervallo di chiavi ed una funzione di calcolo dello sbilancio dell'albero.\\
+    Il dato usa la chiave dell'Item \textbf{\textit{Quotazione}} come sua chiave di ordinamento.
+
+    
+    \section{Scelte algoritmiche}
+    Il programma è gestito runtime tramite linea di comando: all'avvio del programma compare un primo menù testuale per differenziare le operazioni 
+    di manipolazione e visualizzazione da quelle di iserimento.\\
+    La funzione di lettura riceve il nome del file da cui estrarre i dati e, scandendo la struttura allocata, verifica di riga in riga l'inserimento o l'aggiornamento del dato.
+    A seguito della richiesta dell'utente di visualizzare una quotazione, il programma propone un secondo menù che illustra le sue varie funzionalità.\\
+    La funzione di ricerca nell'intervallo di date del BST sfrutta una visita post order per cercare il massimo ed il minimo. 
+    La stessa funzione viene chiamata con l'elemento minimo e massimo del BST per effettuare una ricerca su tutto l'intervallo.
+
+
+    \section{Commenti finali}
+    La parte meno soddisfacente è la gestione, nel modulo \textbf{\textit{Titolo}}, della chiave. Essendo il tipo definito come ADT di prima classe ed allocato dinamicamente,
+    esso dipende molto dalla rappresentazione interna che lo implementa e lascia poco margine di errore al client: 
+    esso dovrà infatti fare attenzione a tutte le assegnazioni in quanto possono sovrascrivere il dato precedente e lasciare del memory leack nel programma.
+    Durante il programma è stato necessario richeidere all'utente una singola chiave per effettuare delle operazioni. La strategia adottata è stata quella di allocare un item
+    ed inizializzargli soltato il campo chiave tramite una funzione apposita del modulo. Per ricevere eventuali valori di ritorno delle funzioni chiamate con questa chiave, 
+    è stato necessario utilizzare una variabile d'appoggio per permettere la corretta deallocazione.
+
+
+    
+\end{document}

@@ -1,0 +1,1684 @@
+ruota  back_handspring  back_handspring  back_handspring  back_tuck  Punteggio: 2.950  Difficolta':  10
+ruota  back_handspring  back_handspring  back_handspring  back_pike  Punteggio: 3.200  Difficolta':  11
+ruota  back_handspring  back_handspring  back_handspring  back_layout  Punteggio: 3.450  Difficolta':  12
+ruota  back_handspring  back_handspring  back_handspring  arabian  Punteggio: 3.700  Difficolta':  11
+ruota  back_handspring  back_handspring  back_tuck  Punteggio: 2.550  Difficolta':   8
+ruota  back_handspring  back_handspring  back_tuck  back_handspring  Punteggio: 2.950  Difficolta':  10
+ruota  back_handspring  back_handspring  back_tuck  back_tuck  Punteggio: 4.300  Difficolta':  11
+ruota  back_handspring  back_handspring  back_tuck  back_pike  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_handspring  back_tuck  arabian  Punteggio: 5.050  Difficolta':  12
+ruota  back_handspring  back_handspring  back_pike  Punteggio: 2.800  Difficolta':   9
+ruota  back_handspring  back_handspring  back_pike  back_handspring  Punteggio: 3.200  Difficolta':  11
+ruota  back_handspring  back_handspring  back_pike  back_tuck  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_handspring  back_layout  Punteggio: 3.050  Difficolta':  10
+ruota  back_handspring  back_handspring  back_layout  back_handspring  Punteggio: 3.450  Difficolta':  12
+ruota  back_handspring  back_handspring  double_back_tuck  Punteggio: 3.800  Difficolta':  11
+ruota  back_handspring  back_handspring  double_back_layout  Punteggio: 4.800  Difficolta':  12
+ruota  back_handspring  back_handspring  arabian  Punteggio: 3.300  Difficolta':   9
+ruota  back_handspring  back_handspring  arabian  ruota  Punteggio: 3.300  Difficolta':  10
+ruota  back_handspring  back_handspring  arabian  rondata  Punteggio: 3.500  Difficolta':  10
+ruota  back_handspring  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.550  Difficolta':  11
+ruota  back_handspring  back_handspring  arabian  front_tuck  Punteggio: 5.050  Difficolta':  12
+ruota  back_handspring  back_tuck  Punteggio: 2.150  Difficolta':   6
+ruota  back_handspring  back_tuck  back_handspring  Punteggio: 2.550  Difficolta':   8
+ruota  back_handspring  back_tuck  back_handspring  back_handspring  Punteggio: 2.950  Difficolta':  10
+ruota  back_handspring  back_tuck  back_handspring  back_tuck  Punteggio: 4.300  Difficolta':  11
+ruota  back_handspring  back_tuck  back_handspring  back_pike  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_tuck  back_handspring  arabian  Punteggio: 5.050  Difficolta':  12
+ruota  back_handspring  back_tuck  back_tuck  Punteggio: 3.900  Difficolta':   9
+ruota  back_handspring  back_tuck  back_tuck  back_handspring  Punteggio: 4.300  Difficolta':  11
+ruota  back_handspring  back_tuck  back_tuck  back_tuck  Punteggio: 5.650  Difficolta':  12
+ruota  back_handspring  back_tuck  back_pike  Punteggio: 4.150  Difficolta':  10
+ruota  back_handspring  back_tuck  back_pike  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_tuck  back_layout  Punteggio: 4.400  Difficolta':  11
+ruota  back_handspring  back_tuck  double_back_tuck  Punteggio: 5.150  Difficolta':  12
+ruota  back_handspring  back_tuck  arabian  Punteggio: 4.650  Difficolta':  10
+ruota  back_handspring  back_tuck  arabian  ruota  Punteggio: 4.650  Difficolta':  11
+ruota  back_handspring  back_tuck  arabian  rondata  Punteggio: 4.850  Difficolta':  11
+ruota  back_handspring  back_tuck  arabian  ribaltata_a_2  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  back_pike  Punteggio: 2.400  Difficolta':   7
+ruota  back_handspring  back_pike  back_handspring  Punteggio: 2.800  Difficolta':   9
+ruota  back_handspring  back_pike  back_handspring  back_handspring  Punteggio: 3.200  Difficolta':  11
+ruota  back_handspring  back_pike  back_handspring  back_tuck  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_pike  back_tuck  Punteggio: 4.150  Difficolta':  10
+ruota  back_handspring  back_pike  back_tuck  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_handspring  back_pike  back_pike  Punteggio: 4.400  Difficolta':  11
+ruota  back_handspring  back_pike  back_layout  Punteggio: 4.650  Difficolta':  12
+ruota  back_handspring  back_pike  arabian  Punteggio: 4.900  Difficolta':  11
+ruota  back_handspring  back_pike  arabian  ruota  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  back_pike  arabian  rondata  Punteggio: 5.100  Difficolta':  12
+ruota  back_handspring  back_layout  Punteggio: 2.650  Difficolta':   8
+ruota  back_handspring  back_layout  back_handspring  Punteggio: 3.050  Difficolta':  10
+ruota  back_handspring  back_layout  back_handspring  back_handspring  Punteggio: 3.450  Difficolta':  12
+ruota  back_handspring  back_layout  back_tuck  Punteggio: 4.400  Difficolta':  11
+ruota  back_handspring  back_layout  back_pike  Punteggio: 4.650  Difficolta':  12
+ruota  back_handspring  back_layout  arabian  Punteggio: 5.150  Difficolta':  12
+ruota  back_handspring  double_back_tuck  Punteggio: 3.400  Difficolta':   9
+ruota  back_handspring  double_back_tuck  back_handspring  Punteggio: 3.800  Difficolta':  11
+ruota  back_handspring  double_back_tuck  back_tuck  Punteggio: 5.150  Difficolta':  12
+ruota  back_handspring  double_back_layout  Punteggio: 4.400  Difficolta':  10
+ruota  back_handspring  triple_back_tuck  Punteggio: 6.400  Difficolta':  11
+ruota  back_handspring  back_layout_double_twist  Punteggio: 8.400  Difficolta':  12
+ruota  back_handspring  arabian  Punteggio: 2.900  Difficolta':   7
+ruota  back_handspring  arabian  ruota  Punteggio: 2.900  Difficolta':   8
+ruota  back_handspring  arabian  ruota  back_handspring  Punteggio: 3.300  Difficolta':  10
+ruota  back_handspring  arabian  ruota  back_tuck  Punteggio: 4.650  Difficolta':  11
+ruota  back_handspring  arabian  ruota  back_pike  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  arabian  ruota  arabian  Punteggio: 5.400  Difficolta':  12
+ruota  back_handspring  arabian  rondata  Punteggio: 3.100  Difficolta':   8
+ruota  back_handspring  arabian  rondata  back_handspring  Punteggio: 3.500  Difficolta':  10
+ruota  back_handspring  arabian  rondata  back_tuck  Punteggio: 4.850  Difficolta':  11
+ruota  back_handspring  arabian  rondata  back_pike  Punteggio: 5.100  Difficolta':  12
+ruota  back_handspring  arabian  rondata  arabian  Punteggio: 5.600  Difficolta':  12
+ruota  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.150  Difficolta':   9
+ruota  back_handspring  arabian  ribaltata_a_2  ruota  Punteggio: 3.150  Difficolta':  10
+ruota  back_handspring  arabian  ribaltata_a_2  rondata  Punteggio: 3.350  Difficolta':  10
+ruota  back_handspring  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.400  Difficolta':  11
+ruota  back_handspring  arabian  ribaltata_a_2  front_tuck  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  arabian  front_tuck  Punteggio: 4.650  Difficolta':  10
+ruota  back_handspring  arabian  front_tuck  ruota  Punteggio: 4.650  Difficolta':  11
+ruota  back_handspring  arabian  front_tuck  rondata  Punteggio: 4.850  Difficolta':  11
+ruota  back_handspring  arabian  front_tuck  ribaltata_a_2  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  arabian  front_pike  Punteggio: 4.900  Difficolta':  11
+ruota  back_handspring  arabian  front_pike  ruota  Punteggio: 4.900  Difficolta':  12
+ruota  back_handspring  arabian  front_pike  rondata  Punteggio: 5.100  Difficolta':  12
+ruota  back_handspring  arabian  front_layout  Punteggio: 5.150  Difficolta':  12
+ruota  back_tuck  Punteggio: 1.750  Difficolta':   4
+ruota  back_tuck  back_handspring  Punteggio: 2.150  Difficolta':   6
+ruota  back_tuck  back_handspring  back_handspring  Punteggio: 2.550  Difficolta':   8
+ruota  back_tuck  back_handspring  back_handspring  back_handspring  Punteggio: 2.950  Difficolta':  10
+ruota  back_tuck  back_handspring  back_handspring  back_tuck  Punteggio: 4.300  Difficolta':  11
+ruota  back_tuck  back_handspring  back_handspring  back_pike  Punteggio: 4.550  Difficolta':  12
+ruota  back_tuck  back_handspring  back_handspring  arabian  Punteggio: 5.050  Difficolta':  12
+ruota  back_tuck  back_handspring  back_tuck  Punteggio: 3.900  Difficolta':   9
+ruota  back_tuck  back_handspring  back_tuck  back_handspring  Punteggio: 4.300  Difficolta':  11
+ruota  back_tuck  back_handspring  back_tuck  back_tuck  Punteggio: 5.650  Difficolta':  12
+ruota  back_tuck  back_handspring  back_pike  Punteggio: 4.150  Difficolta':  10
+ruota  back_tuck  back_handspring  back_pike  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_tuck  back_handspring  back_layout  Punteggio: 4.400  Difficolta':  11
+ruota  back_tuck  back_handspring  double_back_tuck  Punteggio: 5.150  Difficolta':  12
+ruota  back_tuck  back_handspring  arabian  Punteggio: 4.650  Difficolta':  10
+ruota  back_tuck  back_handspring  arabian  ruota  Punteggio: 4.650  Difficolta':  11
+ruota  back_tuck  back_handspring  arabian  rondata  Punteggio: 4.850  Difficolta':  11
+ruota  back_tuck  back_handspring  arabian  ribaltata_a_2  Punteggio: 4.900  Difficolta':  12
+ruota  back_tuck  back_tuck  Punteggio: 3.500  Difficolta':   7
+ruota  back_tuck  back_tuck  back_handspring  Punteggio: 3.900  Difficolta':   9
+ruota  back_tuck  back_tuck  back_handspring  back_handspring  Punteggio: 4.300  Difficolta':  11
+ruota  back_tuck  back_tuck  back_handspring  back_tuck  Punteggio: 5.650  Difficolta':  12
+ruota  back_tuck  back_tuck  back_tuck  Punteggio: 5.250  Difficolta':  10
+ruota  back_tuck  back_tuck  back_tuck  back_handspring  Punteggio: 5.650  Difficolta':  12
+ruota  back_tuck  back_tuck  back_pike  Punteggio: 5.500  Difficolta':  11
+ruota  back_tuck  back_tuck  back_layout  Punteggio: 5.750  Difficolta':  12
+ruota  back_tuck  back_tuck  arabian  Punteggio: 6.000  Difficolta':  11
+ruota  back_tuck  back_tuck  arabian  ruota  Punteggio: 6.000  Difficolta':  12
+ruota  back_tuck  back_tuck  arabian  rondata  Punteggio: 6.200  Difficolta':  12
+ruota  back_tuck  back_pike  Punteggio: 3.750  Difficolta':   8
+ruota  back_tuck  back_pike  back_handspring  Punteggio: 4.150  Difficolta':  10
+ruota  back_tuck  back_pike  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_tuck  back_pike  back_tuck  Punteggio: 5.500  Difficolta':  11
+ruota  back_tuck  back_pike  back_pike  Punteggio: 5.750  Difficolta':  12
+ruota  back_tuck  back_pike  arabian  Punteggio: 6.250  Difficolta':  12
+ruota  back_tuck  back_layout  Punteggio: 4.000  Difficolta':   9
+ruota  back_tuck  back_layout  back_handspring  Punteggio: 4.400  Difficolta':  11
+ruota  back_tuck  back_layout  back_tuck  Punteggio: 5.750  Difficolta':  12
+ruota  back_tuck  double_back_tuck  Punteggio: 4.750  Difficolta':  10
+ruota  back_tuck  double_back_tuck  back_handspring  Punteggio: 5.150  Difficolta':  12
+ruota  back_tuck  double_back_layout  Punteggio: 5.750  Difficolta':  11
+ruota  back_tuck  triple_back_tuck  Punteggio: 7.750  Difficolta':  12
+ruota  back_tuck  arabian  Punteggio: 4.250  Difficolta':   8
+ruota  back_tuck  arabian  ruota  Punteggio: 4.250  Difficolta':   9
+ruota  back_tuck  arabian  ruota  back_handspring  Punteggio: 4.650  Difficolta':  11
+ruota  back_tuck  arabian  ruota  back_tuck  Punteggio: 6.000  Difficolta':  12
+ruota  back_tuck  arabian  rondata  Punteggio: 4.450  Difficolta':   9
+ruota  back_tuck  arabian  rondata  back_handspring  Punteggio: 4.850  Difficolta':  11
+ruota  back_tuck  arabian  rondata  back_tuck  Punteggio: 6.200  Difficolta':  12
+ruota  back_tuck  arabian  ribaltata_a_2  Punteggio: 4.500  Difficolta':  10
+ruota  back_tuck  arabian  ribaltata_a_2  ruota  Punteggio: 4.500  Difficolta':  11
+ruota  back_tuck  arabian  ribaltata_a_2  rondata  Punteggio: 4.700  Difficolta':  11
+ruota  back_tuck  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ruota  back_tuck  arabian  front_tuck  Punteggio: 6.000  Difficolta':  11
+ruota  back_tuck  arabian  front_tuck  ruota  Punteggio: 6.000  Difficolta':  12
+ruota  back_tuck  arabian  front_tuck  rondata  Punteggio: 6.200  Difficolta':  12
+ruota  back_tuck  arabian  front_pike  Punteggio: 6.250  Difficolta':  12
+ruota  back_pike  Punteggio: 2.000  Difficolta':   5
+ruota  back_pike  back_handspring  Punteggio: 2.400  Difficolta':   7
+ruota  back_pike  back_handspring  back_handspring  Punteggio: 2.800  Difficolta':   9
+ruota  back_pike  back_handspring  back_handspring  back_handspring  Punteggio: 3.200  Difficolta':  11
+ruota  back_pike  back_handspring  back_handspring  back_tuck  Punteggio: 4.550  Difficolta':  12
+ruota  back_pike  back_handspring  back_tuck  Punteggio: 4.150  Difficolta':  10
+ruota  back_pike  back_handspring  back_tuck  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_pike  back_handspring  back_pike  Punteggio: 4.400  Difficolta':  11
+ruota  back_pike  back_handspring  back_layout  Punteggio: 4.650  Difficolta':  12
+ruota  back_pike  back_handspring  arabian  Punteggio: 4.900  Difficolta':  11
+ruota  back_pike  back_handspring  arabian  ruota  Punteggio: 4.900  Difficolta':  12
+ruota  back_pike  back_handspring  arabian  rondata  Punteggio: 5.100  Difficolta':  12
+ruota  back_pike  back_tuck  Punteggio: 3.750  Difficolta':   8
+ruota  back_pike  back_tuck  back_handspring  Punteggio: 4.150  Difficolta':  10
+ruota  back_pike  back_tuck  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+ruota  back_pike  back_tuck  back_tuck  Punteggio: 5.500  Difficolta':  11
+ruota  back_pike  back_tuck  back_pike  Punteggio: 5.750  Difficolta':  12
+ruota  back_pike  back_tuck  arabian  Punteggio: 6.250  Difficolta':  12
+ruota  back_pike  back_pike  Punteggio: 4.000  Difficolta':   9
+ruota  back_pike  back_pike  back_handspring  Punteggio: 4.400  Difficolta':  11
+ruota  back_pike  back_pike  back_tuck  Punteggio: 5.750  Difficolta':  12
+ruota  back_pike  back_layout  Punteggio: 4.250  Difficolta':  10
+ruota  back_pike  back_layout  back_handspring  Punteggio: 4.650  Difficolta':  12
+ruota  back_pike  double_back_tuck  Punteggio: 5.000  Difficolta':  11
+ruota  back_pike  double_back_layout  Punteggio: 6.000  Difficolta':  12
+ruota  back_pike  arabian  Punteggio: 4.500  Difficolta':   9
+ruota  back_pike  arabian  ruota  Punteggio: 4.500  Difficolta':  10
+ruota  back_pike  arabian  ruota  back_handspring  Punteggio: 4.900  Difficolta':  12
+ruota  back_pike  arabian  rondata  Punteggio: 4.700  Difficolta':  10
+ruota  back_pike  arabian  rondata  back_handspring  Punteggio: 5.100  Difficolta':  12
+ruota  back_pike  arabian  ribaltata_a_2  Punteggio: 4.750  Difficolta':  11
+ruota  back_pike  arabian  ribaltata_a_2  ruota  Punteggio: 4.750  Difficolta':  12
+ruota  back_pike  arabian  ribaltata_a_2  rondata  Punteggio: 4.950  Difficolta':  12
+ruota  back_pike  arabian  front_tuck  Punteggio: 6.250  Difficolta':  12
+ruota  back_layout  Punteggio: 2.250  Difficolta':   6
+ruota  back_layout  back_handspring  Punteggio: 2.650  Difficolta':   8
+ruota  back_layout  back_handspring  back_handspring  Punteggio: 3.050  Difficolta':  10
+ruota  back_layout  back_handspring  back_handspring  back_handspring  Punteggio: 3.450  Difficolta':  12
+ruota  back_layout  back_handspring  back_tuck  Punteggio: 4.400  Difficolta':  11
+ruota  back_layout  back_handspring  back_pike  Punteggio: 4.650  Difficolta':  12
+ruota  back_layout  back_handspring  arabian  Punteggio: 5.150  Difficolta':  12
+ruota  back_layout  back_tuck  Punteggio: 4.000  Difficolta':   9
+ruota  back_layout  back_tuck  back_handspring  Punteggio: 4.400  Difficolta':  11
+ruota  back_layout  back_tuck  back_tuck  Punteggio: 5.750  Difficolta':  12
+ruota  back_layout  back_pike  Punteggio: 4.250  Difficolta':  10
+ruota  back_layout  back_pike  back_handspring  Punteggio: 4.650  Difficolta':  12
+ruota  back_layout  back_layout  Punteggio: 4.500  Difficolta':  11
+ruota  back_layout  double_back_tuck  Punteggio: 5.250  Difficolta':  12
+ruota  back_layout  arabian  Punteggio: 4.750  Difficolta':  10
+ruota  back_layout  arabian  ruota  Punteggio: 4.750  Difficolta':  11
+ruota  back_layout  arabian  rondata  Punteggio: 4.950  Difficolta':  11
+ruota  back_layout  arabian  ribaltata_a_2  Punteggio: 5.000  Difficolta':  12
+ruota  double_back_tuck  Punteggio: 3.000  Difficolta':   7
+ruota  double_back_tuck  back_handspring  Punteggio: 3.400  Difficolta':   9
+ruota  double_back_tuck  back_handspring  back_handspring  Punteggio: 3.800  Difficolta':  11
+ruota  double_back_tuck  back_handspring  back_tuck  Punteggio: 5.150  Difficolta':  12
+ruota  double_back_tuck  back_tuck  Punteggio: 4.750  Difficolta':  10
+ruota  double_back_tuck  back_tuck  back_handspring  Punteggio: 5.150  Difficolta':  12
+ruota  double_back_tuck  back_pike  Punteggio: 5.000  Difficolta':  11
+ruota  double_back_tuck  back_layout  Punteggio: 5.250  Difficolta':  12
+ruota  double_back_tuck  arabian  Punteggio: 5.500  Difficolta':  11
+ruota  double_back_tuck  arabian  ruota  Punteggio: 5.500  Difficolta':  12
+ruota  double_back_tuck  arabian  rondata  Punteggio: 5.700  Difficolta':  12
+ruota  double_back_layout  Punteggio: 4.000  Difficolta':   8
+ruota  triple_back_tuck  Punteggio: 6.000  Difficolta':   9
+ruota  back_layout_double_twist  Punteggio: 8.000  Difficolta':  10
+ruota  back_layout_double_twist  back_handspring  Punteggio: 8.400  Difficolta':  12
+ruota  back_layout_quad_twist  Punteggio: 12.000  Difficolta':  11
+ruota  arabian  Punteggio: 2.500  Difficolta':   5
+ruota  arabian  ruota  Punteggio: 2.500  Difficolta':   6
+ruota  arabian  ruota  back_handspring  Punteggio: 2.900  Difficolta':   8
+ruota  arabian  ruota  back_handspring  back_handspring  Punteggio: 3.300  Difficolta':  10
+ruota  arabian  ruota  back_handspring  back_tuck  Punteggio: 4.650  Difficolta':  11
+ruota  arabian  ruota  back_handspring  back_pike  Punteggio: 4.900  Difficolta':  12
+ruota  arabian  ruota  back_handspring  arabian  Punteggio: 5.400  Difficolta':  12
+ruota  arabian  ruota  back_tuck  Punteggio: 4.250  Difficolta':   9
+ruota  arabian  ruota  back_tuck  back_handspring  Punteggio: 4.650  Difficolta':  11
+ruota  arabian  ruota  back_tuck  back_tuck  Punteggio: 6.000  Difficolta':  12
+ruota  arabian  ruota  back_pike  Punteggio: 4.500  Difficolta':  10
+ruota  arabian  ruota  back_pike  back_handspring  Punteggio: 4.900  Difficolta':  12
+ruota  arabian  ruota  back_layout  Punteggio: 4.750  Difficolta':  11
+ruota  arabian  ruota  double_back_tuck  Punteggio: 5.500  Difficolta':  12
+ruota  arabian  ruota  arabian  Punteggio: 5.000  Difficolta':  10
+ruota  arabian  ruota  arabian  ruota  Punteggio: 5.000  Difficolta':  11
+ruota  arabian  ruota  arabian  rondata  Punteggio: 5.200  Difficolta':  11
+ruota  arabian  ruota  arabian  ribaltata_a_2  Punteggio: 5.250  Difficolta':  12
+ruota  arabian  rondata  Punteggio: 2.700  Difficolta':   6
+ruota  arabian  rondata  back_handspring  Punteggio: 3.100  Difficolta':   8
+ruota  arabian  rondata  back_handspring  back_handspring  Punteggio: 3.500  Difficolta':  10
+ruota  arabian  rondata  back_handspring  back_tuck  Punteggio: 4.850  Difficolta':  11
+ruota  arabian  rondata  back_handspring  back_pike  Punteggio: 5.100  Difficolta':  12
+ruota  arabian  rondata  back_handspring  arabian  Punteggio: 5.600  Difficolta':  12
+ruota  arabian  rondata  back_tuck  Punteggio: 4.450  Difficolta':   9
+ruota  arabian  rondata  back_tuck  back_handspring  Punteggio: 4.850  Difficolta':  11
+ruota  arabian  rondata  back_tuck  back_tuck  Punteggio: 6.200  Difficolta':  12
+ruota  arabian  rondata  back_pike  Punteggio: 4.700  Difficolta':  10
+ruota  arabian  rondata  back_pike  back_handspring  Punteggio: 5.100  Difficolta':  12
+ruota  arabian  rondata  back_layout  Punteggio: 4.950  Difficolta':  11
+ruota  arabian  rondata  double_back_tuck  Punteggio: 5.700  Difficolta':  12
+ruota  arabian  rondata  arabian  Punteggio: 5.200  Difficolta':  10
+ruota  arabian  rondata  arabian  ruota  Punteggio: 5.200  Difficolta':  11
+ruota  arabian  rondata  arabian  rondata  Punteggio: 5.400  Difficolta':  11
+ruota  arabian  rondata  arabian  ribaltata_a_2  Punteggio: 5.450  Difficolta':  12
+ruota  arabian  ribaltata_a_2  Punteggio: 2.750  Difficolta':   7
+ruota  arabian  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':   8
+ruota  arabian  ribaltata_a_2  ruota  back_handspring  Punteggio: 3.150  Difficolta':  10
+ruota  arabian  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.500  Difficolta':  11
+ruota  arabian  ribaltata_a_2  ruota  back_pike  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  ribaltata_a_2  ruota  arabian  Punteggio: 5.250  Difficolta':  12
+ruota  arabian  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':   8
+ruota  arabian  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.350  Difficolta':  10
+ruota  arabian  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.700  Difficolta':  11
+ruota  arabian  ribaltata_a_2  rondata  back_pike  Punteggio: 4.950  Difficolta':  12
+ruota  arabian  ribaltata_a_2  rondata  arabian  Punteggio: 5.450  Difficolta':  12
+ruota  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':   9
+ruota  arabian  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 3.000  Difficolta':  10
+ruota  arabian  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 3.200  Difficolta':  10
+ruota  arabian  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.250  Difficolta':  11
+ruota  arabian  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  ribaltata_a_2  front_tuck  Punteggio: 4.500  Difficolta':  10
+ruota  arabian  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.500  Difficolta':  11
+ruota  arabian  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.700  Difficolta':  11
+ruota  arabian  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  ribaltata_a_2  front_pike  Punteggio: 4.750  Difficolta':  11
+ruota  arabian  ribaltata_a_2  front_pike  ruota  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  ribaltata_a_2  front_pike  rondata  Punteggio: 4.950  Difficolta':  12
+ruota  arabian  ribaltata_a_2  front_layout  Punteggio: 5.000  Difficolta':  12
+ruota  arabian  front_tuck  Punteggio: 4.250  Difficolta':   8
+ruota  arabian  front_tuck  ruota  Punteggio: 4.250  Difficolta':   9
+ruota  arabian  front_tuck  ruota  back_handspring  Punteggio: 4.650  Difficolta':  11
+ruota  arabian  front_tuck  ruota  back_tuck  Punteggio: 6.000  Difficolta':  12
+ruota  arabian  front_tuck  rondata  Punteggio: 4.450  Difficolta':   9
+ruota  arabian  front_tuck  rondata  back_handspring  Punteggio: 4.850  Difficolta':  11
+ruota  arabian  front_tuck  rondata  back_tuck  Punteggio: 6.200  Difficolta':  12
+ruota  arabian  front_tuck  ribaltata_a_2  Punteggio: 4.500  Difficolta':  10
+ruota  arabian  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.500  Difficolta':  11
+ruota  arabian  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.700  Difficolta':  11
+ruota  arabian  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  front_tuck  front_tuck  Punteggio: 6.000  Difficolta':  11
+ruota  arabian  front_tuck  front_tuck  ruota  Punteggio: 6.000  Difficolta':  12
+ruota  arabian  front_tuck  front_tuck  rondata  Punteggio: 6.200  Difficolta':  12
+ruota  arabian  front_tuck  front_pike  Punteggio: 6.250  Difficolta':  12
+ruota  arabian  front_pike  Punteggio: 4.500  Difficolta':   9
+ruota  arabian  front_pike  ruota  Punteggio: 4.500  Difficolta':  10
+ruota  arabian  front_pike  ruota  back_handspring  Punteggio: 4.900  Difficolta':  12
+ruota  arabian  front_pike  rondata  Punteggio: 4.700  Difficolta':  10
+ruota  arabian  front_pike  rondata  back_handspring  Punteggio: 5.100  Difficolta':  12
+ruota  arabian  front_pike  ribaltata_a_2  Punteggio: 4.750  Difficolta':  11
+ruota  arabian  front_pike  ribaltata_a_2  ruota  Punteggio: 4.750  Difficolta':  12
+ruota  arabian  front_pike  ribaltata_a_2  rondata  Punteggio: 4.950  Difficolta':  12
+ruota  arabian  front_pike  front_tuck  Punteggio: 6.250  Difficolta':  12
+ruota  arabian  front_layout  Punteggio: 4.750  Difficolta':  10
+ruota  arabian  front_layout  ruota  Punteggio: 4.750  Difficolta':  11
+ruota  arabian  front_layout  rondata  Punteggio: 4.950  Difficolta':  11
+ruota  arabian  front_layout  ribaltata_a_2  Punteggio: 5.000  Difficolta':  12
+ruota  arabian  double_front_tuck  Punteggio: 5.500  Difficolta':  11
+ruota  arabian  double_front_tuck  ruota  Punteggio: 5.500  Difficolta':  12
+ruota  arabian  double_front_tuck  rondata  Punteggio: 5.700  Difficolta':  12
+ruota  arabian  double_front_layout  Punteggio: 6.500  Difficolta':  12
+rondata  back_handspring  back_handspring  back_handspring  back_tuck  Punteggio: 3.150  Difficolta':  10
+rondata  back_handspring  back_handspring  back_handspring  back_pike  Punteggio: 3.400  Difficolta':  11
+rondata  back_handspring  back_handspring  back_handspring  back_layout  Punteggio: 3.650  Difficolta':  12
+rondata  back_handspring  back_handspring  back_handspring  arabian  Punteggio: 3.900  Difficolta':  11
+rondata  back_handspring  back_handspring  back_tuck  Punteggio: 2.750  Difficolta':   8
+rondata  back_handspring  back_handspring  back_tuck  back_handspring  Punteggio: 3.150  Difficolta':  10
+rondata  back_handspring  back_handspring  back_tuck  back_tuck  Punteggio: 4.500  Difficolta':  11
+rondata  back_handspring  back_handspring  back_tuck  back_pike  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_handspring  back_tuck  arabian  Punteggio: 5.250  Difficolta':  12
+rondata  back_handspring  back_handspring  back_pike  Punteggio: 3.000  Difficolta':   9
+rondata  back_handspring  back_handspring  back_pike  back_handspring  Punteggio: 3.400  Difficolta':  11
+rondata  back_handspring  back_handspring  back_pike  back_tuck  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_handspring  back_layout  Punteggio: 3.250  Difficolta':  10
+rondata  back_handspring  back_handspring  back_layout  back_handspring  Punteggio: 3.650  Difficolta':  12
+rondata  back_handspring  back_handspring  double_back_tuck  Punteggio: 4.000  Difficolta':  11
+rondata  back_handspring  back_handspring  double_back_layout  Punteggio: 5.000  Difficolta':  12
+rondata  back_handspring  back_handspring  arabian  Punteggio: 3.500  Difficolta':   9
+rondata  back_handspring  back_handspring  arabian  ruota  Punteggio: 3.500  Difficolta':  10
+rondata  back_handspring  back_handspring  arabian  rondata  Punteggio: 3.700  Difficolta':  10
+rondata  back_handspring  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.750  Difficolta':  11
+rondata  back_handspring  back_handspring  arabian  front_tuck  Punteggio: 5.250  Difficolta':  12
+rondata  back_handspring  back_tuck  Punteggio: 2.350  Difficolta':   6
+rondata  back_handspring  back_tuck  back_handspring  Punteggio: 2.750  Difficolta':   8
+rondata  back_handspring  back_tuck  back_handspring  back_handspring  Punteggio: 3.150  Difficolta':  10
+rondata  back_handspring  back_tuck  back_handspring  back_tuck  Punteggio: 4.500  Difficolta':  11
+rondata  back_handspring  back_tuck  back_handspring  back_pike  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_tuck  back_handspring  arabian  Punteggio: 5.250  Difficolta':  12
+rondata  back_handspring  back_tuck  back_tuck  Punteggio: 4.100  Difficolta':   9
+rondata  back_handspring  back_tuck  back_tuck  back_handspring  Punteggio: 4.500  Difficolta':  11
+rondata  back_handspring  back_tuck  back_tuck  back_tuck  Punteggio: 5.850  Difficolta':  12
+rondata  back_handspring  back_tuck  back_pike  Punteggio: 4.350  Difficolta':  10
+rondata  back_handspring  back_tuck  back_pike  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_tuck  back_layout  Punteggio: 4.600  Difficolta':  11
+rondata  back_handspring  back_tuck  double_back_tuck  Punteggio: 5.350  Difficolta':  12
+rondata  back_handspring  back_tuck  arabian  Punteggio: 4.850  Difficolta':  10
+rondata  back_handspring  back_tuck  arabian  ruota  Punteggio: 4.850  Difficolta':  11
+rondata  back_handspring  back_tuck  arabian  rondata  Punteggio: 5.050  Difficolta':  11
+rondata  back_handspring  back_tuck  arabian  ribaltata_a_2  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  back_pike  Punteggio: 2.600  Difficolta':   7
+rondata  back_handspring  back_pike  back_handspring  Punteggio: 3.000  Difficolta':   9
+rondata  back_handspring  back_pike  back_handspring  back_handspring  Punteggio: 3.400  Difficolta':  11
+rondata  back_handspring  back_pike  back_handspring  back_tuck  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_pike  back_tuck  Punteggio: 4.350  Difficolta':  10
+rondata  back_handspring  back_pike  back_tuck  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_handspring  back_pike  back_pike  Punteggio: 4.600  Difficolta':  11
+rondata  back_handspring  back_pike  back_layout  Punteggio: 4.850  Difficolta':  12
+rondata  back_handspring  back_pike  arabian  Punteggio: 5.100  Difficolta':  11
+rondata  back_handspring  back_pike  arabian  ruota  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  back_pike  arabian  rondata  Punteggio: 5.300  Difficolta':  12
+rondata  back_handspring  back_layout  Punteggio: 2.850  Difficolta':   8
+rondata  back_handspring  back_layout  back_handspring  Punteggio: 3.250  Difficolta':  10
+rondata  back_handspring  back_layout  back_handspring  back_handspring  Punteggio: 3.650  Difficolta':  12
+rondata  back_handspring  back_layout  back_tuck  Punteggio: 4.600  Difficolta':  11
+rondata  back_handspring  back_layout  back_pike  Punteggio: 4.850  Difficolta':  12
+rondata  back_handspring  back_layout  arabian  Punteggio: 5.350  Difficolta':  12
+rondata  back_handspring  double_back_tuck  Punteggio: 3.600  Difficolta':   9
+rondata  back_handspring  double_back_tuck  back_handspring  Punteggio: 4.000  Difficolta':  11
+rondata  back_handspring  double_back_tuck  back_tuck  Punteggio: 5.350  Difficolta':  12
+rondata  back_handspring  double_back_layout  Punteggio: 4.600  Difficolta':  10
+rondata  back_handspring  triple_back_tuck  Punteggio: 6.600  Difficolta':  11
+rondata  back_handspring  back_layout_double_twist  Punteggio: 8.600  Difficolta':  12
+rondata  back_handspring  arabian  Punteggio: 3.100  Difficolta':   7
+rondata  back_handspring  arabian  ruota  Punteggio: 3.100  Difficolta':   8
+rondata  back_handspring  arabian  ruota  back_handspring  Punteggio: 3.500  Difficolta':  10
+rondata  back_handspring  arabian  ruota  back_tuck  Punteggio: 4.850  Difficolta':  11
+rondata  back_handspring  arabian  ruota  back_pike  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  arabian  ruota  arabian  Punteggio: 5.600  Difficolta':  12
+rondata  back_handspring  arabian  rondata  Punteggio: 3.300  Difficolta':   8
+rondata  back_handspring  arabian  rondata  back_handspring  Punteggio: 3.700  Difficolta':  10
+rondata  back_handspring  arabian  rondata  back_tuck  Punteggio: 5.050  Difficolta':  11
+rondata  back_handspring  arabian  rondata  back_pike  Punteggio: 5.300  Difficolta':  12
+rondata  back_handspring  arabian  rondata  arabian  Punteggio: 5.800  Difficolta':  12
+rondata  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.350  Difficolta':   9
+rondata  back_handspring  arabian  ribaltata_a_2  ruota  Punteggio: 3.350  Difficolta':  10
+rondata  back_handspring  arabian  ribaltata_a_2  rondata  Punteggio: 3.550  Difficolta':  10
+rondata  back_handspring  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.600  Difficolta':  11
+rondata  back_handspring  arabian  ribaltata_a_2  front_tuck  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  arabian  front_tuck  Punteggio: 4.850  Difficolta':  10
+rondata  back_handspring  arabian  front_tuck  ruota  Punteggio: 4.850  Difficolta':  11
+rondata  back_handspring  arabian  front_tuck  rondata  Punteggio: 5.050  Difficolta':  11
+rondata  back_handspring  arabian  front_tuck  ribaltata_a_2  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  arabian  front_pike  Punteggio: 5.100  Difficolta':  11
+rondata  back_handspring  arabian  front_pike  ruota  Punteggio: 5.100  Difficolta':  12
+rondata  back_handspring  arabian  front_pike  rondata  Punteggio: 5.300  Difficolta':  12
+rondata  back_handspring  arabian  front_layout  Punteggio: 5.350  Difficolta':  12
+rondata  back_tuck  Punteggio: 1.950  Difficolta':   4
+rondata  back_tuck  back_handspring  Punteggio: 2.350  Difficolta':   6
+rondata  back_tuck  back_handspring  back_handspring  Punteggio: 2.750  Difficolta':   8
+rondata  back_tuck  back_handspring  back_handspring  back_handspring  Punteggio: 3.150  Difficolta':  10
+rondata  back_tuck  back_handspring  back_handspring  back_tuck  Punteggio: 4.500  Difficolta':  11
+rondata  back_tuck  back_handspring  back_handspring  back_pike  Punteggio: 4.750  Difficolta':  12
+rondata  back_tuck  back_handspring  back_handspring  arabian  Punteggio: 5.250  Difficolta':  12
+rondata  back_tuck  back_handspring  back_tuck  Punteggio: 4.100  Difficolta':   9
+rondata  back_tuck  back_handspring  back_tuck  back_handspring  Punteggio: 4.500  Difficolta':  11
+rondata  back_tuck  back_handspring  back_tuck  back_tuck  Punteggio: 5.850  Difficolta':  12
+rondata  back_tuck  back_handspring  back_pike  Punteggio: 4.350  Difficolta':  10
+rondata  back_tuck  back_handspring  back_pike  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_tuck  back_handspring  back_layout  Punteggio: 4.600  Difficolta':  11
+rondata  back_tuck  back_handspring  double_back_tuck  Punteggio: 5.350  Difficolta':  12
+rondata  back_tuck  back_handspring  arabian  Punteggio: 4.850  Difficolta':  10
+rondata  back_tuck  back_handspring  arabian  ruota  Punteggio: 4.850  Difficolta':  11
+rondata  back_tuck  back_handspring  arabian  rondata  Punteggio: 5.050  Difficolta':  11
+rondata  back_tuck  back_handspring  arabian  ribaltata_a_2  Punteggio: 5.100  Difficolta':  12
+rondata  back_tuck  back_tuck  Punteggio: 3.700  Difficolta':   7
+rondata  back_tuck  back_tuck  back_handspring  Punteggio: 4.100  Difficolta':   9
+rondata  back_tuck  back_tuck  back_handspring  back_handspring  Punteggio: 4.500  Difficolta':  11
+rondata  back_tuck  back_tuck  back_handspring  back_tuck  Punteggio: 5.850  Difficolta':  12
+rondata  back_tuck  back_tuck  back_tuck  Punteggio: 5.450  Difficolta':  10
+rondata  back_tuck  back_tuck  back_tuck  back_handspring  Punteggio: 5.850  Difficolta':  12
+rondata  back_tuck  back_tuck  back_pike  Punteggio: 5.700  Difficolta':  11
+rondata  back_tuck  back_tuck  back_layout  Punteggio: 5.950  Difficolta':  12
+rondata  back_tuck  back_tuck  arabian  Punteggio: 6.200  Difficolta':  11
+rondata  back_tuck  back_tuck  arabian  ruota  Punteggio: 6.200  Difficolta':  12
+rondata  back_tuck  back_tuck  arabian  rondata  Punteggio: 6.400  Difficolta':  12
+rondata  back_tuck  back_pike  Punteggio: 3.950  Difficolta':   8
+rondata  back_tuck  back_pike  back_handspring  Punteggio: 4.350  Difficolta':  10
+rondata  back_tuck  back_pike  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_tuck  back_pike  back_tuck  Punteggio: 5.700  Difficolta':  11
+rondata  back_tuck  back_pike  back_pike  Punteggio: 5.950  Difficolta':  12
+rondata  back_tuck  back_pike  arabian  Punteggio: 6.450  Difficolta':  12
+rondata  back_tuck  back_layout  Punteggio: 4.200  Difficolta':   9
+rondata  back_tuck  back_layout  back_handspring  Punteggio: 4.600  Difficolta':  11
+rondata  back_tuck  back_layout  back_tuck  Punteggio: 5.950  Difficolta':  12
+rondata  back_tuck  double_back_tuck  Punteggio: 4.950  Difficolta':  10
+rondata  back_tuck  double_back_tuck  back_handspring  Punteggio: 5.350  Difficolta':  12
+rondata  back_tuck  double_back_layout  Punteggio: 5.950  Difficolta':  11
+rondata  back_tuck  triple_back_tuck  Punteggio: 7.950  Difficolta':  12
+rondata  back_tuck  arabian  Punteggio: 4.450  Difficolta':   8
+rondata  back_tuck  arabian  ruota  Punteggio: 4.450  Difficolta':   9
+rondata  back_tuck  arabian  ruota  back_handspring  Punteggio: 4.850  Difficolta':  11
+rondata  back_tuck  arabian  ruota  back_tuck  Punteggio: 6.200  Difficolta':  12
+rondata  back_tuck  arabian  rondata  Punteggio: 4.650  Difficolta':   9
+rondata  back_tuck  arabian  rondata  back_handspring  Punteggio: 5.050  Difficolta':  11
+rondata  back_tuck  arabian  rondata  back_tuck  Punteggio: 6.400  Difficolta':  12
+rondata  back_tuck  arabian  ribaltata_a_2  Punteggio: 4.700  Difficolta':  10
+rondata  back_tuck  arabian  ribaltata_a_2  ruota  Punteggio: 4.700  Difficolta':  11
+rondata  back_tuck  arabian  ribaltata_a_2  rondata  Punteggio: 4.900  Difficolta':  11
+rondata  back_tuck  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+rondata  back_tuck  arabian  front_tuck  Punteggio: 6.200  Difficolta':  11
+rondata  back_tuck  arabian  front_tuck  ruota  Punteggio: 6.200  Difficolta':  12
+rondata  back_tuck  arabian  front_tuck  rondata  Punteggio: 6.400  Difficolta':  12
+rondata  back_tuck  arabian  front_pike  Punteggio: 6.450  Difficolta':  12
+rondata  back_pike  Punteggio: 2.200  Difficolta':   5
+rondata  back_pike  back_handspring  Punteggio: 2.600  Difficolta':   7
+rondata  back_pike  back_handspring  back_handspring  Punteggio: 3.000  Difficolta':   9
+rondata  back_pike  back_handspring  back_handspring  back_handspring  Punteggio: 3.400  Difficolta':  11
+rondata  back_pike  back_handspring  back_handspring  back_tuck  Punteggio: 4.750  Difficolta':  12
+rondata  back_pike  back_handspring  back_tuck  Punteggio: 4.350  Difficolta':  10
+rondata  back_pike  back_handspring  back_tuck  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_pike  back_handspring  back_pike  Punteggio: 4.600  Difficolta':  11
+rondata  back_pike  back_handspring  back_layout  Punteggio: 4.850  Difficolta':  12
+rondata  back_pike  back_handspring  arabian  Punteggio: 5.100  Difficolta':  11
+rondata  back_pike  back_handspring  arabian  ruota  Punteggio: 5.100  Difficolta':  12
+rondata  back_pike  back_handspring  arabian  rondata  Punteggio: 5.300  Difficolta':  12
+rondata  back_pike  back_tuck  Punteggio: 3.950  Difficolta':   8
+rondata  back_pike  back_tuck  back_handspring  Punteggio: 4.350  Difficolta':  10
+rondata  back_pike  back_tuck  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+rondata  back_pike  back_tuck  back_tuck  Punteggio: 5.700  Difficolta':  11
+rondata  back_pike  back_tuck  back_pike  Punteggio: 5.950  Difficolta':  12
+rondata  back_pike  back_tuck  arabian  Punteggio: 6.450  Difficolta':  12
+rondata  back_pike  back_pike  Punteggio: 4.200  Difficolta':   9
+rondata  back_pike  back_pike  back_handspring  Punteggio: 4.600  Difficolta':  11
+rondata  back_pike  back_pike  back_tuck  Punteggio: 5.950  Difficolta':  12
+rondata  back_pike  back_layout  Punteggio: 4.450  Difficolta':  10
+rondata  back_pike  back_layout  back_handspring  Punteggio: 4.850  Difficolta':  12
+rondata  back_pike  double_back_tuck  Punteggio: 5.200  Difficolta':  11
+rondata  back_pike  double_back_layout  Punteggio: 6.200  Difficolta':  12
+rondata  back_pike  arabian  Punteggio: 4.700  Difficolta':   9
+rondata  back_pike  arabian  ruota  Punteggio: 4.700  Difficolta':  10
+rondata  back_pike  arabian  ruota  back_handspring  Punteggio: 5.100  Difficolta':  12
+rondata  back_pike  arabian  rondata  Punteggio: 4.900  Difficolta':  10
+rondata  back_pike  arabian  rondata  back_handspring  Punteggio: 5.300  Difficolta':  12
+rondata  back_pike  arabian  ribaltata_a_2  Punteggio: 4.950  Difficolta':  11
+rondata  back_pike  arabian  ribaltata_a_2  ruota  Punteggio: 4.950  Difficolta':  12
+rondata  back_pike  arabian  ribaltata_a_2  rondata  Punteggio: 5.150  Difficolta':  12
+rondata  back_pike  arabian  front_tuck  Punteggio: 6.450  Difficolta':  12
+rondata  back_layout  Punteggio: 2.450  Difficolta':   6
+rondata  back_layout  back_handspring  Punteggio: 2.850  Difficolta':   8
+rondata  back_layout  back_handspring  back_handspring  Punteggio: 3.250  Difficolta':  10
+rondata  back_layout  back_handspring  back_handspring  back_handspring  Punteggio: 3.650  Difficolta':  12
+rondata  back_layout  back_handspring  back_tuck  Punteggio: 4.600  Difficolta':  11
+rondata  back_layout  back_handspring  back_pike  Punteggio: 4.850  Difficolta':  12
+rondata  back_layout  back_handspring  arabian  Punteggio: 5.350  Difficolta':  12
+rondata  back_layout  back_tuck  Punteggio: 4.200  Difficolta':   9
+rondata  back_layout  back_tuck  back_handspring  Punteggio: 4.600  Difficolta':  11
+rondata  back_layout  back_tuck  back_tuck  Punteggio: 5.950  Difficolta':  12
+rondata  back_layout  back_pike  Punteggio: 4.450  Difficolta':  10
+rondata  back_layout  back_pike  back_handspring  Punteggio: 4.850  Difficolta':  12
+rondata  back_layout  back_layout  Punteggio: 4.700  Difficolta':  11
+rondata  back_layout  double_back_tuck  Punteggio: 5.450  Difficolta':  12
+rondata  back_layout  arabian  Punteggio: 4.950  Difficolta':  10
+rondata  back_layout  arabian  ruota  Punteggio: 4.950  Difficolta':  11
+rondata  back_layout  arabian  rondata  Punteggio: 5.150  Difficolta':  11
+rondata  back_layout  arabian  ribaltata_a_2  Punteggio: 5.200  Difficolta':  12
+rondata  double_back_tuck  Punteggio: 3.200  Difficolta':   7
+rondata  double_back_tuck  back_handspring  Punteggio: 3.600  Difficolta':   9
+rondata  double_back_tuck  back_handspring  back_handspring  Punteggio: 4.000  Difficolta':  11
+rondata  double_back_tuck  back_handspring  back_tuck  Punteggio: 5.350  Difficolta':  12
+rondata  double_back_tuck  back_tuck  Punteggio: 4.950  Difficolta':  10
+rondata  double_back_tuck  back_tuck  back_handspring  Punteggio: 5.350  Difficolta':  12
+rondata  double_back_tuck  back_pike  Punteggio: 5.200  Difficolta':  11
+rondata  double_back_tuck  back_layout  Punteggio: 5.450  Difficolta':  12
+rondata  double_back_tuck  arabian  Punteggio: 5.700  Difficolta':  11
+rondata  double_back_tuck  arabian  ruota  Punteggio: 5.700  Difficolta':  12
+rondata  double_back_tuck  arabian  rondata  Punteggio: 5.900  Difficolta':  12
+rondata  double_back_layout  Punteggio: 4.200  Difficolta':   8
+rondata  triple_back_tuck  Punteggio: 6.200  Difficolta':   9
+rondata  back_layout_double_twist  Punteggio: 8.200  Difficolta':  10
+rondata  back_layout_double_twist  back_handspring  Punteggio: 8.600  Difficolta':  12
+rondata  back_layout_quad_twist  Punteggio: 12.200  Difficolta':  11
+rondata  arabian  Punteggio: 2.700  Difficolta':   5
+rondata  arabian  ruota  Punteggio: 2.700  Difficolta':   6
+rondata  arabian  ruota  back_handspring  Punteggio: 3.100  Difficolta':   8
+rondata  arabian  ruota  back_handspring  back_handspring  Punteggio: 3.500  Difficolta':  10
+rondata  arabian  ruota  back_handspring  back_tuck  Punteggio: 4.850  Difficolta':  11
+rondata  arabian  ruota  back_handspring  back_pike  Punteggio: 5.100  Difficolta':  12
+rondata  arabian  ruota  back_handspring  arabian  Punteggio: 5.600  Difficolta':  12
+rondata  arabian  ruota  back_tuck  Punteggio: 4.450  Difficolta':   9
+rondata  arabian  ruota  back_tuck  back_handspring  Punteggio: 4.850  Difficolta':  11
+rondata  arabian  ruota  back_tuck  back_tuck  Punteggio: 6.200  Difficolta':  12
+rondata  arabian  ruota  back_pike  Punteggio: 4.700  Difficolta':  10
+rondata  arabian  ruota  back_pike  back_handspring  Punteggio: 5.100  Difficolta':  12
+rondata  arabian  ruota  back_layout  Punteggio: 4.950  Difficolta':  11
+rondata  arabian  ruota  double_back_tuck  Punteggio: 5.700  Difficolta':  12
+rondata  arabian  ruota  arabian  Punteggio: 5.200  Difficolta':  10
+rondata  arabian  ruota  arabian  ruota  Punteggio: 5.200  Difficolta':  11
+rondata  arabian  ruota  arabian  rondata  Punteggio: 5.400  Difficolta':  11
+rondata  arabian  ruota  arabian  ribaltata_a_2  Punteggio: 5.450  Difficolta':  12
+rondata  arabian  rondata  Punteggio: 2.900  Difficolta':   6
+rondata  arabian  rondata  back_handspring  Punteggio: 3.300  Difficolta':   8
+rondata  arabian  rondata  back_handspring  back_handspring  Punteggio: 3.700  Difficolta':  10
+rondata  arabian  rondata  back_handspring  back_tuck  Punteggio: 5.050  Difficolta':  11
+rondata  arabian  rondata  back_handspring  back_pike  Punteggio: 5.300  Difficolta':  12
+rondata  arabian  rondata  back_handspring  arabian  Punteggio: 5.800  Difficolta':  12
+rondata  arabian  rondata  back_tuck  Punteggio: 4.650  Difficolta':   9
+rondata  arabian  rondata  back_tuck  back_handspring  Punteggio: 5.050  Difficolta':  11
+rondata  arabian  rondata  back_tuck  back_tuck  Punteggio: 6.400  Difficolta':  12
+rondata  arabian  rondata  back_pike  Punteggio: 4.900  Difficolta':  10
+rondata  arabian  rondata  back_pike  back_handspring  Punteggio: 5.300  Difficolta':  12
+rondata  arabian  rondata  back_layout  Punteggio: 5.150  Difficolta':  11
+rondata  arabian  rondata  double_back_tuck  Punteggio: 5.900  Difficolta':  12
+rondata  arabian  rondata  arabian  Punteggio: 5.400  Difficolta':  10
+rondata  arabian  rondata  arabian  ruota  Punteggio: 5.400  Difficolta':  11
+rondata  arabian  rondata  arabian  rondata  Punteggio: 5.600  Difficolta':  11
+rondata  arabian  rondata  arabian  ribaltata_a_2  Punteggio: 5.650  Difficolta':  12
+rondata  arabian  ribaltata_a_2  Punteggio: 2.950  Difficolta':   7
+rondata  arabian  ribaltata_a_2  ruota  Punteggio: 2.950  Difficolta':   8
+rondata  arabian  ribaltata_a_2  ruota  back_handspring  Punteggio: 3.350  Difficolta':  10
+rondata  arabian  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.700  Difficolta':  11
+rondata  arabian  ribaltata_a_2  ruota  back_pike  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  ribaltata_a_2  ruota  arabian  Punteggio: 5.450  Difficolta':  12
+rondata  arabian  ribaltata_a_2  rondata  Punteggio: 3.150  Difficolta':   8
+rondata  arabian  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.550  Difficolta':  10
+rondata  arabian  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.900  Difficolta':  11
+rondata  arabian  ribaltata_a_2  rondata  back_pike  Punteggio: 5.150  Difficolta':  12
+rondata  arabian  ribaltata_a_2  rondata  arabian  Punteggio: 5.650  Difficolta':  12
+rondata  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.200  Difficolta':   9
+rondata  arabian  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 3.200  Difficolta':  10
+rondata  arabian  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 3.400  Difficolta':  10
+rondata  arabian  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.450  Difficolta':  11
+rondata  arabian  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  ribaltata_a_2  front_tuck  Punteggio: 4.700  Difficolta':  10
+rondata  arabian  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.700  Difficolta':  11
+rondata  arabian  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.900  Difficolta':  11
+rondata  arabian  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  ribaltata_a_2  front_pike  Punteggio: 4.950  Difficolta':  11
+rondata  arabian  ribaltata_a_2  front_pike  ruota  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  ribaltata_a_2  front_pike  rondata  Punteggio: 5.150  Difficolta':  12
+rondata  arabian  ribaltata_a_2  front_layout  Punteggio: 5.200  Difficolta':  12
+rondata  arabian  front_tuck  Punteggio: 4.450  Difficolta':   8
+rondata  arabian  front_tuck  ruota  Punteggio: 4.450  Difficolta':   9
+rondata  arabian  front_tuck  ruota  back_handspring  Punteggio: 4.850  Difficolta':  11
+rondata  arabian  front_tuck  ruota  back_tuck  Punteggio: 6.200  Difficolta':  12
+rondata  arabian  front_tuck  rondata  Punteggio: 4.650  Difficolta':   9
+rondata  arabian  front_tuck  rondata  back_handspring  Punteggio: 5.050  Difficolta':  11
+rondata  arabian  front_tuck  rondata  back_tuck  Punteggio: 6.400  Difficolta':  12
+rondata  arabian  front_tuck  ribaltata_a_2  Punteggio: 4.700  Difficolta':  10
+rondata  arabian  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.700  Difficolta':  11
+rondata  arabian  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.900  Difficolta':  11
+rondata  arabian  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  front_tuck  front_tuck  Punteggio: 6.200  Difficolta':  11
+rondata  arabian  front_tuck  front_tuck  ruota  Punteggio: 6.200  Difficolta':  12
+rondata  arabian  front_tuck  front_tuck  rondata  Punteggio: 6.400  Difficolta':  12
+rondata  arabian  front_tuck  front_pike  Punteggio: 6.450  Difficolta':  12
+rondata  arabian  front_pike  Punteggio: 4.700  Difficolta':   9
+rondata  arabian  front_pike  ruota  Punteggio: 4.700  Difficolta':  10
+rondata  arabian  front_pike  ruota  back_handspring  Punteggio: 5.100  Difficolta':  12
+rondata  arabian  front_pike  rondata  Punteggio: 4.900  Difficolta':  10
+rondata  arabian  front_pike  rondata  back_handspring  Punteggio: 5.300  Difficolta':  12
+rondata  arabian  front_pike  ribaltata_a_2  Punteggio: 4.950  Difficolta':  11
+rondata  arabian  front_pike  ribaltata_a_2  ruota  Punteggio: 4.950  Difficolta':  12
+rondata  arabian  front_pike  ribaltata_a_2  rondata  Punteggio: 5.150  Difficolta':  12
+rondata  arabian  front_pike  front_tuck  Punteggio: 6.450  Difficolta':  12
+rondata  arabian  front_layout  Punteggio: 4.950  Difficolta':  10
+rondata  arabian  front_layout  ruota  Punteggio: 4.950  Difficolta':  11
+rondata  arabian  front_layout  rondata  Punteggio: 5.150  Difficolta':  11
+rondata  arabian  front_layout  ribaltata_a_2  Punteggio: 5.200  Difficolta':  12
+rondata  arabian  double_front_tuck  Punteggio: 5.700  Difficolta':  11
+rondata  arabian  double_front_tuck  ruota  Punteggio: 5.700  Difficolta':  12
+rondata  arabian  double_front_tuck  rondata  Punteggio: 5.900  Difficolta':  12
+rondata  arabian  double_front_layout  Punteggio: 6.700  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  back_handspring  back_tuck  Punteggio: 2.800  Difficolta':  10
+ribaltata_a_2  ruota  back_handspring  back_handspring  back_pike  Punteggio: 3.050  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  back_handspring  back_layout  Punteggio: 3.300  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  back_handspring  arabian  Punteggio: 3.550  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  back_tuck  Punteggio: 2.400  Difficolta':   8
+ribaltata_a_2  ruota  back_handspring  back_tuck  back_handspring  Punteggio: 2.800  Difficolta':  10
+ribaltata_a_2  ruota  back_handspring  back_tuck  back_tuck  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  back_tuck  back_pike  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  back_tuck  arabian  Punteggio: 4.900  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  back_pike  Punteggio: 2.650  Difficolta':   9
+ribaltata_a_2  ruota  back_handspring  back_pike  back_handspring  Punteggio: 3.050  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  back_pike  back_tuck  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  back_layout  Punteggio: 2.900  Difficolta':  10
+ribaltata_a_2  ruota  back_handspring  back_layout  back_handspring  Punteggio: 3.300  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  double_back_tuck  Punteggio: 3.650  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  double_back_layout  Punteggio: 4.650  Difficolta':  12
+ribaltata_a_2  ruota  back_handspring  arabian  Punteggio: 3.150  Difficolta':   9
+ribaltata_a_2  ruota  back_handspring  arabian  ruota  Punteggio: 3.150  Difficolta':  10
+ribaltata_a_2  ruota  back_handspring  arabian  rondata  Punteggio: 3.350  Difficolta':  10
+ribaltata_a_2  ruota  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.400  Difficolta':  11
+ribaltata_a_2  ruota  back_handspring  arabian  front_tuck  Punteggio: 4.900  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  Punteggio: 2.000  Difficolta':   6
+ribaltata_a_2  ruota  back_tuck  back_handspring  Punteggio: 2.400  Difficolta':   8
+ribaltata_a_2  ruota  back_tuck  back_handspring  back_handspring  Punteggio: 2.800  Difficolta':  10
+ribaltata_a_2  ruota  back_tuck  back_handspring  back_tuck  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  ruota  back_tuck  back_handspring  back_pike  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  back_handspring  arabian  Punteggio: 4.900  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  back_tuck  Punteggio: 3.750  Difficolta':   9
+ribaltata_a_2  ruota  back_tuck  back_tuck  back_handspring  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  ruota  back_tuck  back_tuck  back_tuck  Punteggio: 5.500  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  back_pike  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  ruota  back_tuck  back_pike  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  back_layout  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  ruota  back_tuck  double_back_tuck  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  ruota  back_tuck  arabian  Punteggio: 4.500  Difficolta':  10
+ribaltata_a_2  ruota  back_tuck  arabian  ruota  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  ruota  back_tuck  arabian  rondata  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  ruota  back_tuck  arabian  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  back_pike  Punteggio: 2.250  Difficolta':   7
+ribaltata_a_2  ruota  back_pike  back_handspring  Punteggio: 2.650  Difficolta':   9
+ribaltata_a_2  ruota  back_pike  back_handspring  back_handspring  Punteggio: 3.050  Difficolta':  11
+ribaltata_a_2  ruota  back_pike  back_handspring  back_tuck  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_pike  back_tuck  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  ruota  back_pike  back_tuck  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  ruota  back_pike  back_pike  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  ruota  back_pike  back_layout  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ruota  back_pike  arabian  Punteggio: 4.750  Difficolta':  11
+ribaltata_a_2  ruota  back_pike  arabian  ruota  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  back_pike  arabian  rondata  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ruota  back_layout  Punteggio: 2.500  Difficolta':   8
+ribaltata_a_2  ruota  back_layout  back_handspring  Punteggio: 2.900  Difficolta':  10
+ribaltata_a_2  ruota  back_layout  back_handspring  back_handspring  Punteggio: 3.300  Difficolta':  12
+ribaltata_a_2  ruota  back_layout  back_tuck  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  ruota  back_layout  back_pike  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ruota  back_layout  arabian  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  ruota  double_back_tuck  Punteggio: 3.250  Difficolta':   9
+ribaltata_a_2  ruota  double_back_tuck  back_handspring  Punteggio: 3.650  Difficolta':  11
+ribaltata_a_2  ruota  double_back_tuck  back_tuck  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  ruota  double_back_layout  Punteggio: 4.250  Difficolta':  10
+ribaltata_a_2  ruota  triple_back_tuck  Punteggio: 6.250  Difficolta':  11
+ribaltata_a_2  ruota  back_layout_double_twist  Punteggio: 8.250  Difficolta':  12
+ribaltata_a_2  ruota  arabian  Punteggio: 2.750  Difficolta':   7
+ribaltata_a_2  ruota  arabian  ruota  Punteggio: 2.750  Difficolta':   8
+ribaltata_a_2  ruota  arabian  ruota  back_handspring  Punteggio: 3.150  Difficolta':  10
+ribaltata_a_2  ruota  arabian  ruota  back_tuck  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  ruota  arabian  ruota  back_pike  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  arabian  ruota  arabian  Punteggio: 5.250  Difficolta':  12
+ribaltata_a_2  ruota  arabian  rondata  Punteggio: 2.950  Difficolta':   8
+ribaltata_a_2  ruota  arabian  rondata  back_handspring  Punteggio: 3.350  Difficolta':  10
+ribaltata_a_2  ruota  arabian  rondata  back_tuck  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  ruota  arabian  rondata  back_pike  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ruota  arabian  rondata  arabian  Punteggio: 5.450  Difficolta':  12
+ribaltata_a_2  ruota  arabian  ribaltata_a_2  Punteggio: 3.000  Difficolta':   9
+ribaltata_a_2  ruota  arabian  ribaltata_a_2  ruota  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  ruota  arabian  ribaltata_a_2  rondata  Punteggio: 3.200  Difficolta':  10
+ribaltata_a_2  ruota  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  ruota  arabian  ribaltata_a_2  front_tuck  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  arabian  front_tuck  Punteggio: 4.500  Difficolta':  10
+ribaltata_a_2  ruota  arabian  front_tuck  ruota  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  ruota  arabian  front_tuck  rondata  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  ruota  arabian  front_tuck  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  arabian  front_pike  Punteggio: 4.750  Difficolta':  11
+ribaltata_a_2  ruota  arabian  front_pike  ruota  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ruota  arabian  front_pike  rondata  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ruota  arabian  front_layout  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  back_handspring  back_tuck  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  rondata  back_handspring  back_handspring  back_pike  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  back_handspring  back_layout  Punteggio: 3.500  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  back_handspring  arabian  Punteggio: 3.750  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  back_tuck  Punteggio: 2.600  Difficolta':   8
+ribaltata_a_2  rondata  back_handspring  back_tuck  back_handspring  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  rondata  back_handspring  back_tuck  back_tuck  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  back_tuck  back_pike  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  back_tuck  arabian  Punteggio: 5.100  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  back_pike  Punteggio: 2.850  Difficolta':   9
+ribaltata_a_2  rondata  back_handspring  back_pike  back_handspring  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  back_pike  back_tuck  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  back_layout  Punteggio: 3.100  Difficolta':  10
+ribaltata_a_2  rondata  back_handspring  back_layout  back_handspring  Punteggio: 3.500  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  double_back_tuck  Punteggio: 3.850  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  double_back_layout  Punteggio: 4.850  Difficolta':  12
+ribaltata_a_2  rondata  back_handspring  arabian  Punteggio: 3.350  Difficolta':   9
+ribaltata_a_2  rondata  back_handspring  arabian  ruota  Punteggio: 3.350  Difficolta':  10
+ribaltata_a_2  rondata  back_handspring  arabian  rondata  Punteggio: 3.550  Difficolta':  10
+ribaltata_a_2  rondata  back_handspring  arabian  ribaltata_a_2  Punteggio: 3.600  Difficolta':  11
+ribaltata_a_2  rondata  back_handspring  arabian  front_tuck  Punteggio: 5.100  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  Punteggio: 2.200  Difficolta':   6
+ribaltata_a_2  rondata  back_tuck  back_handspring  Punteggio: 2.600  Difficolta':   8
+ribaltata_a_2  rondata  back_tuck  back_handspring  back_handspring  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  rondata  back_tuck  back_handspring  back_tuck  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  rondata  back_tuck  back_handspring  back_pike  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  back_handspring  arabian  Punteggio: 5.100  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  back_tuck  Punteggio: 3.950  Difficolta':   9
+ribaltata_a_2  rondata  back_tuck  back_tuck  back_handspring  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  rondata  back_tuck  back_tuck  back_tuck  Punteggio: 5.700  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  back_pike  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  rondata  back_tuck  back_pike  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  back_layout  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  rondata  back_tuck  double_back_tuck  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  rondata  back_tuck  arabian  Punteggio: 4.700  Difficolta':  10
+ribaltata_a_2  rondata  back_tuck  arabian  ruota  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  rondata  back_tuck  arabian  rondata  Punteggio: 4.900  Difficolta':  11
+ribaltata_a_2  rondata  back_tuck  arabian  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  back_pike  Punteggio: 2.450  Difficolta':   7
+ribaltata_a_2  rondata  back_pike  back_handspring  Punteggio: 2.850  Difficolta':   9
+ribaltata_a_2  rondata  back_pike  back_handspring  back_handspring  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  rondata  back_pike  back_handspring  back_tuck  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_pike  back_tuck  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  rondata  back_pike  back_tuck  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  rondata  back_pike  back_pike  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  rondata  back_pike  back_layout  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  rondata  back_pike  arabian  Punteggio: 4.950  Difficolta':  11
+ribaltata_a_2  rondata  back_pike  arabian  ruota  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  back_pike  arabian  rondata  Punteggio: 5.150  Difficolta':  12
+ribaltata_a_2  rondata  back_layout  Punteggio: 2.700  Difficolta':   8
+ribaltata_a_2  rondata  back_layout  back_handspring  Punteggio: 3.100  Difficolta':  10
+ribaltata_a_2  rondata  back_layout  back_handspring  back_handspring  Punteggio: 3.500  Difficolta':  12
+ribaltata_a_2  rondata  back_layout  back_tuck  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  rondata  back_layout  back_pike  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  rondata  back_layout  arabian  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  rondata  double_back_tuck  Punteggio: 3.450  Difficolta':   9
+ribaltata_a_2  rondata  double_back_tuck  back_handspring  Punteggio: 3.850  Difficolta':  11
+ribaltata_a_2  rondata  double_back_tuck  back_tuck  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  rondata  double_back_layout  Punteggio: 4.450  Difficolta':  10
+ribaltata_a_2  rondata  triple_back_tuck  Punteggio: 6.450  Difficolta':  11
+ribaltata_a_2  rondata  back_layout_double_twist  Punteggio: 8.450  Difficolta':  12
+ribaltata_a_2  rondata  arabian  Punteggio: 2.950  Difficolta':   7
+ribaltata_a_2  rondata  arabian  ruota  Punteggio: 2.950  Difficolta':   8
+ribaltata_a_2  rondata  arabian  ruota  back_handspring  Punteggio: 3.350  Difficolta':  10
+ribaltata_a_2  rondata  arabian  ruota  back_tuck  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  rondata  arabian  ruota  back_pike  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  arabian  ruota  arabian  Punteggio: 5.450  Difficolta':  12
+ribaltata_a_2  rondata  arabian  rondata  Punteggio: 3.150  Difficolta':   8
+ribaltata_a_2  rondata  arabian  rondata  back_handspring  Punteggio: 3.550  Difficolta':  10
+ribaltata_a_2  rondata  arabian  rondata  back_tuck  Punteggio: 4.900  Difficolta':  11
+ribaltata_a_2  rondata  arabian  rondata  back_pike  Punteggio: 5.150  Difficolta':  12
+ribaltata_a_2  rondata  arabian  rondata  arabian  Punteggio: 5.650  Difficolta':  12
+ribaltata_a_2  rondata  arabian  ribaltata_a_2  Punteggio: 3.200  Difficolta':   9
+ribaltata_a_2  rondata  arabian  ribaltata_a_2  ruota  Punteggio: 3.200  Difficolta':  10
+ribaltata_a_2  rondata  arabian  ribaltata_a_2  rondata  Punteggio: 3.400  Difficolta':  10
+ribaltata_a_2  rondata  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.450  Difficolta':  11
+ribaltata_a_2  rondata  arabian  ribaltata_a_2  front_tuck  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  arabian  front_tuck  Punteggio: 4.700  Difficolta':  10
+ribaltata_a_2  rondata  arabian  front_tuck  ruota  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  rondata  arabian  front_tuck  rondata  Punteggio: 4.900  Difficolta':  11
+ribaltata_a_2  rondata  arabian  front_tuck  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  arabian  front_pike  Punteggio: 4.950  Difficolta':  11
+ribaltata_a_2  rondata  arabian  front_pike  ruota  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  rondata  arabian  front_pike  rondata  Punteggio: 5.150  Difficolta':  12
+ribaltata_a_2  rondata  arabian  front_layout  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  back_tuck  Punteggio: 2.650  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  back_pike  Punteggio: 2.900  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  back_layout  Punteggio: 3.150  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  arabian  Punteggio: 3.400  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  Punteggio: 2.250  Difficolta':   8
+ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  back_handspring  Punteggio: 2.650  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  back_tuck  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  back_pike  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  arabian  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  back_pike  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  ruota  back_pike  back_handspring  Punteggio: 2.900  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  back_pike  back_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  back_layout  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ruota  back_layout  back_handspring  Punteggio: 3.150  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  double_back_tuck  Punteggio: 3.500  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  double_back_layout  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ruota  arabian  Punteggio: 3.000  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  ruota  arabian  ruota  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ruota  arabian  rondata  Punteggio: 3.200  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ruota  arabian  ribaltata_a_2  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ruota  arabian  front_tuck  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  back_tuck  Punteggio: 2.850  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  back_pike  Punteggio: 3.100  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  back_layout  Punteggio: 3.350  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  arabian  Punteggio: 3.600  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  Punteggio: 2.450  Difficolta':   8
+ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  back_handspring  Punteggio: 2.850  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  back_tuck  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  back_pike  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  arabian  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  back_pike  Punteggio: 2.700  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  rondata  back_pike  back_handspring  Punteggio: 3.100  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  back_pike  back_tuck  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  back_layout  Punteggio: 2.950  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  rondata  back_layout  back_handspring  Punteggio: 3.350  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  double_back_tuck  Punteggio: 3.700  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  double_back_layout  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  rondata  arabian  Punteggio: 3.200  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  rondata  arabian  ruota  Punteggio: 3.200  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  rondata  arabian  rondata  Punteggio: 3.400  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  rondata  arabian  ribaltata_a_2  Punteggio: 3.450  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  rondata  arabian  front_tuck  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  Punteggio: 2.500  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  back_pike  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  back_layout  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  arabian  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  Punteggio: 2.700  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  back_pike  Punteggio: 2.950  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  back_layout  Punteggio: 3.200  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  arabian  Punteggio: 3.450  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_pike  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  Punteggio: 2.500  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  Punteggio: 2.700  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  front_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_pike  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_pike  ruota  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_pike  rondata  Punteggio: 2.950  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_pike  ribaltata_a_2  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_layout  Punteggio: 3.000  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_layout  ruota  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_layout  rondata  Punteggio: 3.200  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  double_front_tuck  Punteggio: 3.750  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 2.250  Difficolta':   7
+ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  Punteggio: 2.250  Difficolta':   8
+ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  back_handspring  Punteggio: 2.650  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  back_tuck  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  back_pike  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  arabian  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  Punteggio: 2.450  Difficolta':   8
+ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  back_handspring  Punteggio: 2.850  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  back_tuck  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  back_pike  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  arabian  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_tuck  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_tuck  ruota  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_tuck  rondata  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_pike  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_pike  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_pike  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_tuck  front_layout  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  Punteggio: 2.500  Difficolta':   8
+ribaltata_a_2  ribaltata_a_2  front_pike  ruota  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  front_pike  ruota  back_handspring  Punteggio: 2.900  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_pike  ruota  back_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  rondata  Punteggio: 2.700  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  front_pike  rondata  back_handspring  Punteggio: 3.100  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_pike  rondata  back_tuck  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  ribaltata_a_2  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_pike  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_pike  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_pike  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  front_tuck  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_pike  front_tuck  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  front_tuck  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_pike  front_pike  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_layout  Punteggio: 2.750  Difficolta':   9
+ribaltata_a_2  ribaltata_a_2  front_layout  ruota  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_layout  ruota  back_handspring  Punteggio: 3.150  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_layout  rondata  Punteggio: 2.950  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  front_layout  rondata  back_handspring  Punteggio: 3.350  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_layout  ribaltata_a_2  Punteggio: 3.000  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  front_layout  ribaltata_a_2  ruota  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_layout  ribaltata_a_2  rondata  Punteggio: 3.200  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  front_layout  front_tuck  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  double_front_tuck  Punteggio: 3.500  Difficolta':  10
+ribaltata_a_2  ribaltata_a_2  double_front_tuck  ruota  Punteggio: 3.500  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  double_front_tuck  rondata  Punteggio: 3.700  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  double_front_tuck  ribaltata_a_2  Punteggio: 3.750  Difficolta':  12
+ribaltata_a_2  ribaltata_a_2  double_front_layout  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  ribaltata_a_2  triple_front_tuck  Punteggio: 7.000  Difficolta':  12
+ribaltata_a_2  front_tuck  Punteggio: 2.000  Difficolta':   5
+ribaltata_a_2  front_tuck  ruota  Punteggio: 2.000  Difficolta':   6
+ribaltata_a_2  front_tuck  ruota  back_handspring  Punteggio: 2.400  Difficolta':   8
+ribaltata_a_2  front_tuck  ruota  back_handspring  back_handspring  Punteggio: 2.800  Difficolta':  10
+ribaltata_a_2  front_tuck  ruota  back_handspring  back_tuck  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  front_tuck  ruota  back_handspring  back_pike  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_tuck  ruota  back_handspring  arabian  Punteggio: 4.900  Difficolta':  12
+ribaltata_a_2  front_tuck  ruota  back_tuck  Punteggio: 3.750  Difficolta':   9
+ribaltata_a_2  front_tuck  ruota  back_tuck  back_handspring  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  front_tuck  ruota  back_tuck  back_tuck  Punteggio: 5.500  Difficolta':  12
+ribaltata_a_2  front_tuck  ruota  back_pike  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_tuck  ruota  back_pike  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_tuck  ruota  back_layout  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_tuck  ruota  double_back_tuck  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  front_tuck  ruota  arabian  Punteggio: 4.500  Difficolta':  10
+ribaltata_a_2  front_tuck  ruota  arabian  ruota  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  front_tuck  ruota  arabian  rondata  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  front_tuck  ruota  arabian  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  Punteggio: 2.200  Difficolta':   6
+ribaltata_a_2  front_tuck  rondata  back_handspring  Punteggio: 2.600  Difficolta':   8
+ribaltata_a_2  front_tuck  rondata  back_handspring  back_handspring  Punteggio: 3.000  Difficolta':  10
+ribaltata_a_2  front_tuck  rondata  back_handspring  back_tuck  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  front_tuck  rondata  back_handspring  back_pike  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  back_handspring  arabian  Punteggio: 5.100  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  back_tuck  Punteggio: 3.950  Difficolta':   9
+ribaltata_a_2  front_tuck  rondata  back_tuck  back_handspring  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  front_tuck  rondata  back_tuck  back_tuck  Punteggio: 5.700  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  back_pike  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  front_tuck  rondata  back_pike  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  back_layout  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_tuck  rondata  double_back_tuck  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  front_tuck  rondata  arabian  Punteggio: 4.700  Difficolta':  10
+ribaltata_a_2  front_tuck  rondata  arabian  ruota  Punteggio: 4.700  Difficolta':  11
+ribaltata_a_2  front_tuck  rondata  arabian  rondata  Punteggio: 4.900  Difficolta':  11
+ribaltata_a_2  front_tuck  rondata  arabian  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 2.250  Difficolta':   7
+ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  Punteggio: 2.250  Difficolta':   8
+ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.650  Difficolta':  10
+ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  back_pike  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  arabian  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  Punteggio: 2.450  Difficolta':   8
+ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  back_handspring  Punteggio: 2.850  Difficolta':  10
+ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  back_pike  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  arabian  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':  10
+ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':  10
+ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_tuck  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_pike  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_pike  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_pike  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_tuck  ribaltata_a_2  front_layout  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  Punteggio: 3.750  Difficolta':   8
+ribaltata_a_2  front_tuck  front_tuck  ruota  Punteggio: 3.750  Difficolta':   9
+ribaltata_a_2  front_tuck  front_tuck  ruota  back_handspring  Punteggio: 4.150  Difficolta':  11
+ribaltata_a_2  front_tuck  front_tuck  ruota  back_tuck  Punteggio: 5.500  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  rondata  Punteggio: 3.950  Difficolta':   9
+ribaltata_a_2  front_tuck  front_tuck  rondata  back_handspring  Punteggio: 4.350  Difficolta':  11
+ribaltata_a_2  front_tuck  front_tuck  rondata  back_tuck  Punteggio: 5.700  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  ribaltata_a_2  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_tuck  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.000  Difficolta':  11
+ribaltata_a_2  front_tuck  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.200  Difficolta':  11
+ribaltata_a_2  front_tuck  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  front_tuck  Punteggio: 5.500  Difficolta':  11
+ribaltata_a_2  front_tuck  front_tuck  front_tuck  ruota  Punteggio: 5.500  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  front_tuck  rondata  Punteggio: 5.700  Difficolta':  12
+ribaltata_a_2  front_tuck  front_tuck  front_pike  Punteggio: 5.750  Difficolta':  12
+ribaltata_a_2  front_tuck  front_pike  Punteggio: 4.000  Difficolta':   9
+ribaltata_a_2  front_tuck  front_pike  ruota  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_tuck  front_pike  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_tuck  front_pike  rondata  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  front_tuck  front_pike  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_tuck  front_pike  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_tuck  front_pike  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_tuck  front_pike  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_tuck  front_pike  front_tuck  Punteggio: 5.750  Difficolta':  12
+ribaltata_a_2  front_tuck  front_layout  Punteggio: 4.250  Difficolta':  10
+ribaltata_a_2  front_tuck  front_layout  ruota  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_tuck  front_layout  rondata  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_tuck  front_layout  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_tuck  double_front_tuck  Punteggio: 5.000  Difficolta':  11
+ribaltata_a_2  front_tuck  double_front_tuck  ruota  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  front_tuck  double_front_tuck  rondata  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  front_tuck  double_front_layout  Punteggio: 6.000  Difficolta':  12
+ribaltata_a_2  front_pike  Punteggio: 2.250  Difficolta':   6
+ribaltata_a_2  front_pike  ruota  Punteggio: 2.250  Difficolta':   7
+ribaltata_a_2  front_pike  ruota  back_handspring  Punteggio: 2.650  Difficolta':   9
+ribaltata_a_2  front_pike  ruota  back_handspring  back_handspring  Punteggio: 3.050  Difficolta':  11
+ribaltata_a_2  front_pike  ruota  back_handspring  back_tuck  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_pike  ruota  back_tuck  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_pike  ruota  back_tuck  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_pike  ruota  back_pike  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_pike  ruota  back_layout  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_pike  ruota  arabian  Punteggio: 4.750  Difficolta':  11
+ribaltata_a_2  front_pike  ruota  arabian  ruota  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  front_pike  ruota  arabian  rondata  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  front_pike  rondata  Punteggio: 2.450  Difficolta':   7
+ribaltata_a_2  front_pike  rondata  back_handspring  Punteggio: 2.850  Difficolta':   9
+ribaltata_a_2  front_pike  rondata  back_handspring  back_handspring  Punteggio: 3.250  Difficolta':  11
+ribaltata_a_2  front_pike  rondata  back_handspring  back_tuck  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_pike  rondata  back_tuck  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  front_pike  rondata  back_tuck  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_pike  rondata  back_pike  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_pike  rondata  back_layout  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  front_pike  rondata  arabian  Punteggio: 4.950  Difficolta':  11
+ribaltata_a_2  front_pike  rondata  arabian  ruota  Punteggio: 4.950  Difficolta':  12
+ribaltata_a_2  front_pike  rondata  arabian  rondata  Punteggio: 5.150  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  Punteggio: 2.500  Difficolta':   8
+ribaltata_a_2  front_pike  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':   9
+ribaltata_a_2  front_pike  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.900  Difficolta':  11
+ribaltata_a_2  front_pike  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':   9
+ribaltata_a_2  front_pike  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.100  Difficolta':  11
+ribaltata_a_2  front_pike  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  front_pike  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':  11
+ribaltata_a_2  front_pike  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':  11
+ribaltata_a_2  front_pike  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_pike  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_pike  ribaltata_a_2  front_pike  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_pike  front_tuck  Punteggio: 4.000  Difficolta':   9
+ribaltata_a_2  front_pike  front_tuck  ruota  Punteggio: 4.000  Difficolta':  10
+ribaltata_a_2  front_pike  front_tuck  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+ribaltata_a_2  front_pike  front_tuck  rondata  Punteggio: 4.200  Difficolta':  10
+ribaltata_a_2  front_pike  front_tuck  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+ribaltata_a_2  front_pike  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_pike  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+ribaltata_a_2  front_pike  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+ribaltata_a_2  front_pike  front_tuck  front_tuck  Punteggio: 5.750  Difficolta':  12
+ribaltata_a_2  front_pike  front_pike  Punteggio: 4.250  Difficolta':  10
+ribaltata_a_2  front_pike  front_pike  ruota  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_pike  front_pike  rondata  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_pike  front_pike  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_pike  front_layout  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  front_pike  front_layout  ruota  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_pike  front_layout  rondata  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  front_pike  double_front_tuck  Punteggio: 5.250  Difficolta':  12
+ribaltata_a_2  front_layout  Punteggio: 2.500  Difficolta':   7
+ribaltata_a_2  front_layout  ruota  Punteggio: 2.500  Difficolta':   8
+ribaltata_a_2  front_layout  ruota  back_handspring  Punteggio: 2.900  Difficolta':  10
+ribaltata_a_2  front_layout  ruota  back_handspring  back_handspring  Punteggio: 3.300  Difficolta':  12
+ribaltata_a_2  front_layout  ruota  back_tuck  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_layout  ruota  back_pike  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_layout  ruota  arabian  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  front_layout  rondata  Punteggio: 2.700  Difficolta':   8
+ribaltata_a_2  front_layout  rondata  back_handspring  Punteggio: 3.100  Difficolta':  10
+ribaltata_a_2  front_layout  rondata  back_handspring  back_handspring  Punteggio: 3.500  Difficolta':  12
+ribaltata_a_2  front_layout  rondata  back_tuck  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_layout  rondata  back_pike  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  front_layout  rondata  arabian  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  front_layout  ribaltata_a_2  Punteggio: 2.750  Difficolta':   9
+ribaltata_a_2  front_layout  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':  10
+ribaltata_a_2  front_layout  ribaltata_a_2  ruota  back_handspring  Punteggio: 3.150  Difficolta':  12
+ribaltata_a_2  front_layout  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':  10
+ribaltata_a_2  front_layout  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.350  Difficolta':  12
+ribaltata_a_2  front_layout  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':  11
+ribaltata_a_2  front_layout  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 3.000  Difficolta':  12
+ribaltata_a_2  front_layout  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 3.200  Difficolta':  12
+ribaltata_a_2  front_layout  ribaltata_a_2  front_tuck  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_layout  front_tuck  Punteggio: 4.250  Difficolta':  10
+ribaltata_a_2  front_layout  front_tuck  ruota  Punteggio: 4.250  Difficolta':  11
+ribaltata_a_2  front_layout  front_tuck  rondata  Punteggio: 4.450  Difficolta':  11
+ribaltata_a_2  front_layout  front_tuck  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_layout  front_pike  Punteggio: 4.500  Difficolta':  11
+ribaltata_a_2  front_layout  front_pike  ruota  Punteggio: 4.500  Difficolta':  12
+ribaltata_a_2  front_layout  front_pike  rondata  Punteggio: 4.700  Difficolta':  12
+ribaltata_a_2  front_layout  front_layout  Punteggio: 4.750  Difficolta':  12
+ribaltata_a_2  double_front_tuck  Punteggio: 3.250  Difficolta':   8
+ribaltata_a_2  double_front_tuck  ruota  Punteggio: 3.250  Difficolta':   9
+ribaltata_a_2  double_front_tuck  ruota  back_handspring  Punteggio: 3.650  Difficolta':  11
+ribaltata_a_2  double_front_tuck  ruota  back_tuck  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  double_front_tuck  rondata  Punteggio: 3.450  Difficolta':   9
+ribaltata_a_2  double_front_tuck  rondata  back_handspring  Punteggio: 3.850  Difficolta':  11
+ribaltata_a_2  double_front_tuck  rondata  back_tuck  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  double_front_tuck  ribaltata_a_2  Punteggio: 3.500  Difficolta':  10
+ribaltata_a_2  double_front_tuck  ribaltata_a_2  ruota  Punteggio: 3.500  Difficolta':  11
+ribaltata_a_2  double_front_tuck  ribaltata_a_2  rondata  Punteggio: 3.700  Difficolta':  11
+ribaltata_a_2  double_front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.750  Difficolta':  12
+ribaltata_a_2  double_front_tuck  front_tuck  Punteggio: 5.000  Difficolta':  11
+ribaltata_a_2  double_front_tuck  front_tuck  ruota  Punteggio: 5.000  Difficolta':  12
+ribaltata_a_2  double_front_tuck  front_tuck  rondata  Punteggio: 5.200  Difficolta':  12
+ribaltata_a_2  double_front_tuck  front_pike  Punteggio: 5.250  Difficolta':  12
+ribaltata_a_2  double_front_layout  Punteggio: 4.250  Difficolta':   9
+ribaltata_a_2  triple_front_tuck  Punteggio: 6.750  Difficolta':  10
+front_tuck  Punteggio: 1.750  Difficolta':   3
+front_tuck  ruota  Punteggio: 1.750  Difficolta':   4
+front_tuck  ruota  back_handspring  Punteggio: 2.150  Difficolta':   6
+front_tuck  ruota  back_handspring  back_handspring  Punteggio: 2.550  Difficolta':   8
+front_tuck  ruota  back_handspring  back_handspring  back_handspring  Punteggio: 2.950  Difficolta':  10
+front_tuck  ruota  back_handspring  back_handspring  back_tuck  Punteggio: 4.300  Difficolta':  11
+front_tuck  ruota  back_handspring  back_handspring  back_pike  Punteggio: 4.550  Difficolta':  12
+front_tuck  ruota  back_handspring  back_handspring  arabian  Punteggio: 5.050  Difficolta':  12
+front_tuck  ruota  back_handspring  back_tuck  Punteggio: 3.900  Difficolta':   9
+front_tuck  ruota  back_handspring  back_tuck  back_handspring  Punteggio: 4.300  Difficolta':  11
+front_tuck  ruota  back_handspring  back_tuck  back_tuck  Punteggio: 5.650  Difficolta':  12
+front_tuck  ruota  back_handspring  back_pike  Punteggio: 4.150  Difficolta':  10
+front_tuck  ruota  back_handspring  back_pike  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_tuck  ruota  back_handspring  back_layout  Punteggio: 4.400  Difficolta':  11
+front_tuck  ruota  back_handspring  double_back_tuck  Punteggio: 5.150  Difficolta':  12
+front_tuck  ruota  back_handspring  arabian  Punteggio: 4.650  Difficolta':  10
+front_tuck  ruota  back_handspring  arabian  ruota  Punteggio: 4.650  Difficolta':  11
+front_tuck  ruota  back_handspring  arabian  rondata  Punteggio: 4.850  Difficolta':  11
+front_tuck  ruota  back_handspring  arabian  ribaltata_a_2  Punteggio: 4.900  Difficolta':  12
+front_tuck  ruota  back_tuck  Punteggio: 3.500  Difficolta':   7
+front_tuck  ruota  back_tuck  back_handspring  Punteggio: 3.900  Difficolta':   9
+front_tuck  ruota  back_tuck  back_handspring  back_handspring  Punteggio: 4.300  Difficolta':  11
+front_tuck  ruota  back_tuck  back_handspring  back_tuck  Punteggio: 5.650  Difficolta':  12
+front_tuck  ruota  back_tuck  back_tuck  Punteggio: 5.250  Difficolta':  10
+front_tuck  ruota  back_tuck  back_tuck  back_handspring  Punteggio: 5.650  Difficolta':  12
+front_tuck  ruota  back_tuck  back_pike  Punteggio: 5.500  Difficolta':  11
+front_tuck  ruota  back_tuck  back_layout  Punteggio: 5.750  Difficolta':  12
+front_tuck  ruota  back_tuck  arabian  Punteggio: 6.000  Difficolta':  11
+front_tuck  ruota  back_tuck  arabian  ruota  Punteggio: 6.000  Difficolta':  12
+front_tuck  ruota  back_tuck  arabian  rondata  Punteggio: 6.200  Difficolta':  12
+front_tuck  ruota  back_pike  Punteggio: 3.750  Difficolta':   8
+front_tuck  ruota  back_pike  back_handspring  Punteggio: 4.150  Difficolta':  10
+front_tuck  ruota  back_pike  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_tuck  ruota  back_pike  back_tuck  Punteggio: 5.500  Difficolta':  11
+front_tuck  ruota  back_pike  back_pike  Punteggio: 5.750  Difficolta':  12
+front_tuck  ruota  back_pike  arabian  Punteggio: 6.250  Difficolta':  12
+front_tuck  ruota  back_layout  Punteggio: 4.000  Difficolta':   9
+front_tuck  ruota  back_layout  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_tuck  ruota  back_layout  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_tuck  ruota  double_back_tuck  Punteggio: 4.750  Difficolta':  10
+front_tuck  ruota  double_back_tuck  back_handspring  Punteggio: 5.150  Difficolta':  12
+front_tuck  ruota  double_back_layout  Punteggio: 5.750  Difficolta':  11
+front_tuck  ruota  triple_back_tuck  Punteggio: 7.750  Difficolta':  12
+front_tuck  ruota  arabian  Punteggio: 4.250  Difficolta':   8
+front_tuck  ruota  arabian  ruota  Punteggio: 4.250  Difficolta':   9
+front_tuck  ruota  arabian  ruota  back_handspring  Punteggio: 4.650  Difficolta':  11
+front_tuck  ruota  arabian  ruota  back_tuck  Punteggio: 6.000  Difficolta':  12
+front_tuck  ruota  arabian  rondata  Punteggio: 4.450  Difficolta':   9
+front_tuck  ruota  arabian  rondata  back_handspring  Punteggio: 4.850  Difficolta':  11
+front_tuck  ruota  arabian  rondata  back_tuck  Punteggio: 6.200  Difficolta':  12
+front_tuck  ruota  arabian  ribaltata_a_2  Punteggio: 4.500  Difficolta':  10
+front_tuck  ruota  arabian  ribaltata_a_2  ruota  Punteggio: 4.500  Difficolta':  11
+front_tuck  ruota  arabian  ribaltata_a_2  rondata  Punteggio: 4.700  Difficolta':  11
+front_tuck  ruota  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+front_tuck  ruota  arabian  front_tuck  Punteggio: 6.000  Difficolta':  11
+front_tuck  ruota  arabian  front_tuck  ruota  Punteggio: 6.000  Difficolta':  12
+front_tuck  ruota  arabian  front_tuck  rondata  Punteggio: 6.200  Difficolta':  12
+front_tuck  ruota  arabian  front_pike  Punteggio: 6.250  Difficolta':  12
+front_tuck  rondata  Punteggio: 1.950  Difficolta':   4
+front_tuck  rondata  back_handspring  Punteggio: 2.350  Difficolta':   6
+front_tuck  rondata  back_handspring  back_handspring  Punteggio: 2.750  Difficolta':   8
+front_tuck  rondata  back_handspring  back_handspring  back_handspring  Punteggio: 3.150  Difficolta':  10
+front_tuck  rondata  back_handspring  back_handspring  back_tuck  Punteggio: 4.500  Difficolta':  11
+front_tuck  rondata  back_handspring  back_handspring  back_pike  Punteggio: 4.750  Difficolta':  12
+front_tuck  rondata  back_handspring  back_handspring  arabian  Punteggio: 5.250  Difficolta':  12
+front_tuck  rondata  back_handspring  back_tuck  Punteggio: 4.100  Difficolta':   9
+front_tuck  rondata  back_handspring  back_tuck  back_handspring  Punteggio: 4.500  Difficolta':  11
+front_tuck  rondata  back_handspring  back_tuck  back_tuck  Punteggio: 5.850  Difficolta':  12
+front_tuck  rondata  back_handspring  back_pike  Punteggio: 4.350  Difficolta':  10
+front_tuck  rondata  back_handspring  back_pike  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_tuck  rondata  back_handspring  back_layout  Punteggio: 4.600  Difficolta':  11
+front_tuck  rondata  back_handspring  double_back_tuck  Punteggio: 5.350  Difficolta':  12
+front_tuck  rondata  back_handspring  arabian  Punteggio: 4.850  Difficolta':  10
+front_tuck  rondata  back_handspring  arabian  ruota  Punteggio: 4.850  Difficolta':  11
+front_tuck  rondata  back_handspring  arabian  rondata  Punteggio: 5.050  Difficolta':  11
+front_tuck  rondata  back_handspring  arabian  ribaltata_a_2  Punteggio: 5.100  Difficolta':  12
+front_tuck  rondata  back_tuck  Punteggio: 3.700  Difficolta':   7
+front_tuck  rondata  back_tuck  back_handspring  Punteggio: 4.100  Difficolta':   9
+front_tuck  rondata  back_tuck  back_handspring  back_handspring  Punteggio: 4.500  Difficolta':  11
+front_tuck  rondata  back_tuck  back_handspring  back_tuck  Punteggio: 5.850  Difficolta':  12
+front_tuck  rondata  back_tuck  back_tuck  Punteggio: 5.450  Difficolta':  10
+front_tuck  rondata  back_tuck  back_tuck  back_handspring  Punteggio: 5.850  Difficolta':  12
+front_tuck  rondata  back_tuck  back_pike  Punteggio: 5.700  Difficolta':  11
+front_tuck  rondata  back_tuck  back_layout  Punteggio: 5.950  Difficolta':  12
+front_tuck  rondata  back_tuck  arabian  Punteggio: 6.200  Difficolta':  11
+front_tuck  rondata  back_tuck  arabian  ruota  Punteggio: 6.200  Difficolta':  12
+front_tuck  rondata  back_tuck  arabian  rondata  Punteggio: 6.400  Difficolta':  12
+front_tuck  rondata  back_pike  Punteggio: 3.950  Difficolta':   8
+front_tuck  rondata  back_pike  back_handspring  Punteggio: 4.350  Difficolta':  10
+front_tuck  rondata  back_pike  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_tuck  rondata  back_pike  back_tuck  Punteggio: 5.700  Difficolta':  11
+front_tuck  rondata  back_pike  back_pike  Punteggio: 5.950  Difficolta':  12
+front_tuck  rondata  back_pike  arabian  Punteggio: 6.450  Difficolta':  12
+front_tuck  rondata  back_layout  Punteggio: 4.200  Difficolta':   9
+front_tuck  rondata  back_layout  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_tuck  rondata  back_layout  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_tuck  rondata  double_back_tuck  Punteggio: 4.950  Difficolta':  10
+front_tuck  rondata  double_back_tuck  back_handspring  Punteggio: 5.350  Difficolta':  12
+front_tuck  rondata  double_back_layout  Punteggio: 5.950  Difficolta':  11
+front_tuck  rondata  triple_back_tuck  Punteggio: 7.950  Difficolta':  12
+front_tuck  rondata  arabian  Punteggio: 4.450  Difficolta':   8
+front_tuck  rondata  arabian  ruota  Punteggio: 4.450  Difficolta':   9
+front_tuck  rondata  arabian  ruota  back_handspring  Punteggio: 4.850  Difficolta':  11
+front_tuck  rondata  arabian  ruota  back_tuck  Punteggio: 6.200  Difficolta':  12
+front_tuck  rondata  arabian  rondata  Punteggio: 4.650  Difficolta':   9
+front_tuck  rondata  arabian  rondata  back_handspring  Punteggio: 5.050  Difficolta':  11
+front_tuck  rondata  arabian  rondata  back_tuck  Punteggio: 6.400  Difficolta':  12
+front_tuck  rondata  arabian  ribaltata_a_2  Punteggio: 4.700  Difficolta':  10
+front_tuck  rondata  arabian  ribaltata_a_2  ruota  Punteggio: 4.700  Difficolta':  11
+front_tuck  rondata  arabian  ribaltata_a_2  rondata  Punteggio: 4.900  Difficolta':  11
+front_tuck  rondata  arabian  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+front_tuck  rondata  arabian  front_tuck  Punteggio: 6.200  Difficolta':  11
+front_tuck  rondata  arabian  front_tuck  ruota  Punteggio: 6.200  Difficolta':  12
+front_tuck  rondata  arabian  front_tuck  rondata  Punteggio: 6.400  Difficolta':  12
+front_tuck  rondata  arabian  front_pike  Punteggio: 6.450  Difficolta':  12
+front_tuck  ribaltata_a_2  Punteggio: 2.000  Difficolta':   5
+front_tuck  ribaltata_a_2  ruota  Punteggio: 2.000  Difficolta':   6
+front_tuck  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.400  Difficolta':   8
+front_tuck  ribaltata_a_2  ruota  back_handspring  back_handspring  Punteggio: 2.800  Difficolta':  10
+front_tuck  ribaltata_a_2  ruota  back_handspring  back_tuck  Punteggio: 4.150  Difficolta':  11
+front_tuck  ribaltata_a_2  ruota  back_handspring  back_pike  Punteggio: 4.400  Difficolta':  12
+front_tuck  ribaltata_a_2  ruota  back_handspring  arabian  Punteggio: 4.900  Difficolta':  12
+front_tuck  ribaltata_a_2  ruota  back_tuck  Punteggio: 3.750  Difficolta':   9
+front_tuck  ribaltata_a_2  ruota  back_tuck  back_handspring  Punteggio: 4.150  Difficolta':  11
+front_tuck  ribaltata_a_2  ruota  back_tuck  back_tuck  Punteggio: 5.500  Difficolta':  12
+front_tuck  ribaltata_a_2  ruota  back_pike  Punteggio: 4.000  Difficolta':  10
+front_tuck  ribaltata_a_2  ruota  back_pike  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_tuck  ribaltata_a_2  ruota  back_layout  Punteggio: 4.250  Difficolta':  11
+front_tuck  ribaltata_a_2  ruota  double_back_tuck  Punteggio: 5.000  Difficolta':  12
+front_tuck  ribaltata_a_2  ruota  arabian  Punteggio: 4.500  Difficolta':  10
+front_tuck  ribaltata_a_2  ruota  arabian  ruota  Punteggio: 4.500  Difficolta':  11
+front_tuck  ribaltata_a_2  ruota  arabian  rondata  Punteggio: 4.700  Difficolta':  11
+front_tuck  ribaltata_a_2  ruota  arabian  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  Punteggio: 2.200  Difficolta':   6
+front_tuck  ribaltata_a_2  rondata  back_handspring  Punteggio: 2.600  Difficolta':   8
+front_tuck  ribaltata_a_2  rondata  back_handspring  back_handspring  Punteggio: 3.000  Difficolta':  10
+front_tuck  ribaltata_a_2  rondata  back_handspring  back_tuck  Punteggio: 4.350  Difficolta':  11
+front_tuck  ribaltata_a_2  rondata  back_handspring  back_pike  Punteggio: 4.600  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  back_handspring  arabian  Punteggio: 5.100  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  back_tuck  Punteggio: 3.950  Difficolta':   9
+front_tuck  ribaltata_a_2  rondata  back_tuck  back_handspring  Punteggio: 4.350  Difficolta':  11
+front_tuck  ribaltata_a_2  rondata  back_tuck  back_tuck  Punteggio: 5.700  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  back_pike  Punteggio: 4.200  Difficolta':  10
+front_tuck  ribaltata_a_2  rondata  back_pike  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  back_layout  Punteggio: 4.450  Difficolta':  11
+front_tuck  ribaltata_a_2  rondata  double_back_tuck  Punteggio: 5.200  Difficolta':  12
+front_tuck  ribaltata_a_2  rondata  arabian  Punteggio: 4.700  Difficolta':  10
+front_tuck  ribaltata_a_2  rondata  arabian  ruota  Punteggio: 4.700  Difficolta':  11
+front_tuck  ribaltata_a_2  rondata  arabian  rondata  Punteggio: 4.900  Difficolta':  11
+front_tuck  ribaltata_a_2  rondata  arabian  ribaltata_a_2  Punteggio: 4.950  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.250  Difficolta':   7
+front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.250  Difficolta':   8
+front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.650  Difficolta':  10
+front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.000  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  back_pike  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  arabian  Punteggio: 4.750  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.450  Difficolta':   8
+front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  Punteggio: 2.850  Difficolta':  10
+front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.200  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  back_pike  Punteggio: 4.450  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  arabian  Punteggio: 4.950  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.500  Difficolta':   9
+front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':  10
+front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':  10
+front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.000  Difficolta':  10
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.000  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.200  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_pike  Punteggio: 4.250  Difficolta':  11
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_pike  ruota  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_pike  rondata  Punteggio: 4.450  Difficolta':  12
+front_tuck  ribaltata_a_2  ribaltata_a_2  front_layout  Punteggio: 4.500  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  Punteggio: 3.750  Difficolta':   8
+front_tuck  ribaltata_a_2  front_tuck  ruota  Punteggio: 3.750  Difficolta':   9
+front_tuck  ribaltata_a_2  front_tuck  ruota  back_handspring  Punteggio: 4.150  Difficolta':  11
+front_tuck  ribaltata_a_2  front_tuck  ruota  back_tuck  Punteggio: 5.500  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  rondata  Punteggio: 3.950  Difficolta':   9
+front_tuck  ribaltata_a_2  front_tuck  rondata  back_handspring  Punteggio: 4.350  Difficolta':  11
+front_tuck  ribaltata_a_2  front_tuck  rondata  back_tuck  Punteggio: 5.700  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.000  Difficolta':  10
+front_tuck  ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.000  Difficolta':  11
+front_tuck  ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.200  Difficolta':  11
+front_tuck  ribaltata_a_2  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  front_tuck  Punteggio: 5.500  Difficolta':  11
+front_tuck  ribaltata_a_2  front_tuck  front_tuck  ruota  Punteggio: 5.500  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  front_tuck  rondata  Punteggio: 5.700  Difficolta':  12
+front_tuck  ribaltata_a_2  front_tuck  front_pike  Punteggio: 5.750  Difficolta':  12
+front_tuck  ribaltata_a_2  front_pike  Punteggio: 4.000  Difficolta':   9
+front_tuck  ribaltata_a_2  front_pike  ruota  Punteggio: 4.000  Difficolta':  10
+front_tuck  ribaltata_a_2  front_pike  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_tuck  ribaltata_a_2  front_pike  rondata  Punteggio: 4.200  Difficolta':  10
+front_tuck  ribaltata_a_2  front_pike  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_tuck  ribaltata_a_2  front_pike  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+front_tuck  ribaltata_a_2  front_pike  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+front_tuck  ribaltata_a_2  front_pike  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+front_tuck  ribaltata_a_2  front_pike  front_tuck  Punteggio: 5.750  Difficolta':  12
+front_tuck  ribaltata_a_2  front_layout  Punteggio: 4.250  Difficolta':  10
+front_tuck  ribaltata_a_2  front_layout  ruota  Punteggio: 4.250  Difficolta':  11
+front_tuck  ribaltata_a_2  front_layout  rondata  Punteggio: 4.450  Difficolta':  11
+front_tuck  ribaltata_a_2  front_layout  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_tuck  ribaltata_a_2  double_front_tuck  Punteggio: 5.000  Difficolta':  11
+front_tuck  ribaltata_a_2  double_front_tuck  ruota  Punteggio: 5.000  Difficolta':  12
+front_tuck  ribaltata_a_2  double_front_tuck  rondata  Punteggio: 5.200  Difficolta':  12
+front_tuck  ribaltata_a_2  double_front_layout  Punteggio: 6.000  Difficolta':  12
+front_tuck  front_tuck  Punteggio: 3.500  Difficolta':   6
+front_tuck  front_tuck  ruota  Punteggio: 3.500  Difficolta':   7
+front_tuck  front_tuck  ruota  back_handspring  Punteggio: 3.900  Difficolta':   9
+front_tuck  front_tuck  ruota  back_handspring  back_handspring  Punteggio: 4.300  Difficolta':  11
+front_tuck  front_tuck  ruota  back_handspring  back_tuck  Punteggio: 5.650  Difficolta':  12
+front_tuck  front_tuck  ruota  back_tuck  Punteggio: 5.250  Difficolta':  10
+front_tuck  front_tuck  ruota  back_tuck  back_handspring  Punteggio: 5.650  Difficolta':  12
+front_tuck  front_tuck  ruota  back_pike  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_tuck  ruota  back_layout  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_tuck  ruota  arabian  Punteggio: 6.000  Difficolta':  11
+front_tuck  front_tuck  ruota  arabian  ruota  Punteggio: 6.000  Difficolta':  12
+front_tuck  front_tuck  ruota  arabian  rondata  Punteggio: 6.200  Difficolta':  12
+front_tuck  front_tuck  rondata  Punteggio: 3.700  Difficolta':   7
+front_tuck  front_tuck  rondata  back_handspring  Punteggio: 4.100  Difficolta':   9
+front_tuck  front_tuck  rondata  back_handspring  back_handspring  Punteggio: 4.500  Difficolta':  11
+front_tuck  front_tuck  rondata  back_handspring  back_tuck  Punteggio: 5.850  Difficolta':  12
+front_tuck  front_tuck  rondata  back_tuck  Punteggio: 5.450  Difficolta':  10
+front_tuck  front_tuck  rondata  back_tuck  back_handspring  Punteggio: 5.850  Difficolta':  12
+front_tuck  front_tuck  rondata  back_pike  Punteggio: 5.700  Difficolta':  11
+front_tuck  front_tuck  rondata  back_layout  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_tuck  rondata  arabian  Punteggio: 6.200  Difficolta':  11
+front_tuck  front_tuck  rondata  arabian  ruota  Punteggio: 6.200  Difficolta':  12
+front_tuck  front_tuck  rondata  arabian  rondata  Punteggio: 6.400  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  Punteggio: 3.750  Difficolta':   8
+front_tuck  front_tuck  ribaltata_a_2  ruota  Punteggio: 3.750  Difficolta':   9
+front_tuck  front_tuck  ribaltata_a_2  ruota  back_handspring  Punteggio: 4.150  Difficolta':  11
+front_tuck  front_tuck  ribaltata_a_2  ruota  back_tuck  Punteggio: 5.500  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  rondata  Punteggio: 3.950  Difficolta':   9
+front_tuck  front_tuck  ribaltata_a_2  rondata  back_handspring  Punteggio: 4.350  Difficolta':  11
+front_tuck  front_tuck  ribaltata_a_2  rondata  back_tuck  Punteggio: 5.700  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.000  Difficolta':  10
+front_tuck  front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 4.000  Difficolta':  11
+front_tuck  front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 4.200  Difficolta':  11
+front_tuck  front_tuck  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.250  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  front_tuck  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_tuck  ribaltata_a_2  front_tuck  ruota  Punteggio: 5.500  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  front_tuck  rondata  Punteggio: 5.700  Difficolta':  12
+front_tuck  front_tuck  ribaltata_a_2  front_pike  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_tuck  front_tuck  Punteggio: 5.250  Difficolta':   9
+front_tuck  front_tuck  front_tuck  ruota  Punteggio: 5.250  Difficolta':  10
+front_tuck  front_tuck  front_tuck  ruota  back_handspring  Punteggio: 5.650  Difficolta':  12
+front_tuck  front_tuck  front_tuck  rondata  Punteggio: 5.450  Difficolta':  10
+front_tuck  front_tuck  front_tuck  rondata  back_handspring  Punteggio: 5.850  Difficolta':  12
+front_tuck  front_tuck  front_tuck  ribaltata_a_2  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_tuck  front_tuck  ribaltata_a_2  ruota  Punteggio: 5.500  Difficolta':  12
+front_tuck  front_tuck  front_tuck  ribaltata_a_2  rondata  Punteggio: 5.700  Difficolta':  12
+front_tuck  front_tuck  front_tuck  front_tuck  Punteggio: 7.000  Difficolta':  12
+front_tuck  front_tuck  front_pike  Punteggio: 5.500  Difficolta':  10
+front_tuck  front_tuck  front_pike  ruota  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_tuck  front_pike  rondata  Punteggio: 5.700  Difficolta':  11
+front_tuck  front_tuck  front_pike  ribaltata_a_2  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_tuck  front_layout  Punteggio: 5.750  Difficolta':  11
+front_tuck  front_tuck  front_layout  ruota  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_tuck  front_layout  rondata  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_tuck  double_front_tuck  Punteggio: 6.500  Difficolta':  12
+front_tuck  front_pike  Punteggio: 3.750  Difficolta':   7
+front_tuck  front_pike  ruota  Punteggio: 3.750  Difficolta':   8
+front_tuck  front_pike  ruota  back_handspring  Punteggio: 4.150  Difficolta':  10
+front_tuck  front_pike  ruota  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_tuck  front_pike  ruota  back_tuck  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_pike  ruota  back_pike  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_pike  ruota  arabian  Punteggio: 6.250  Difficolta':  12
+front_tuck  front_pike  rondata  Punteggio: 3.950  Difficolta':   8
+front_tuck  front_pike  rondata  back_handspring  Punteggio: 4.350  Difficolta':  10
+front_tuck  front_pike  rondata  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_tuck  front_pike  rondata  back_tuck  Punteggio: 5.700  Difficolta':  11
+front_tuck  front_pike  rondata  back_pike  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_pike  rondata  arabian  Punteggio: 6.450  Difficolta':  12
+front_tuck  front_pike  ribaltata_a_2  Punteggio: 4.000  Difficolta':   9
+front_tuck  front_pike  ribaltata_a_2  ruota  Punteggio: 4.000  Difficolta':  10
+front_tuck  front_pike  ribaltata_a_2  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_tuck  front_pike  ribaltata_a_2  rondata  Punteggio: 4.200  Difficolta':  10
+front_tuck  front_pike  ribaltata_a_2  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_tuck  front_pike  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+front_tuck  front_pike  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+front_tuck  front_pike  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+front_tuck  front_pike  ribaltata_a_2  front_tuck  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_pike  front_tuck  Punteggio: 5.500  Difficolta':  10
+front_tuck  front_pike  front_tuck  ruota  Punteggio: 5.500  Difficolta':  11
+front_tuck  front_pike  front_tuck  rondata  Punteggio: 5.700  Difficolta':  11
+front_tuck  front_pike  front_tuck  ribaltata_a_2  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_pike  front_pike  Punteggio: 5.750  Difficolta':  11
+front_tuck  front_pike  front_pike  ruota  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_pike  front_pike  rondata  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_pike  front_layout  Punteggio: 6.000  Difficolta':  12
+front_tuck  front_layout  Punteggio: 4.000  Difficolta':   8
+front_tuck  front_layout  ruota  Punteggio: 4.000  Difficolta':   9
+front_tuck  front_layout  ruota  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_tuck  front_layout  ruota  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_layout  rondata  Punteggio: 4.200  Difficolta':   9
+front_tuck  front_layout  rondata  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_tuck  front_layout  rondata  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_layout  ribaltata_a_2  Punteggio: 4.250  Difficolta':  10
+front_tuck  front_layout  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  11
+front_tuck  front_layout  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  11
+front_tuck  front_layout  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_tuck  front_layout  front_tuck  Punteggio: 5.750  Difficolta':  11
+front_tuck  front_layout  front_tuck  ruota  Punteggio: 5.750  Difficolta':  12
+front_tuck  front_layout  front_tuck  rondata  Punteggio: 5.950  Difficolta':  12
+front_tuck  front_layout  front_pike  Punteggio: 6.000  Difficolta':  12
+front_tuck  double_front_tuck  Punteggio: 4.750  Difficolta':   9
+front_tuck  double_front_tuck  ruota  Punteggio: 4.750  Difficolta':  10
+front_tuck  double_front_tuck  ruota  back_handspring  Punteggio: 5.150  Difficolta':  12
+front_tuck  double_front_tuck  rondata  Punteggio: 4.950  Difficolta':  10
+front_tuck  double_front_tuck  rondata  back_handspring  Punteggio: 5.350  Difficolta':  12
+front_tuck  double_front_tuck  ribaltata_a_2  Punteggio: 5.000  Difficolta':  11
+front_tuck  double_front_tuck  ribaltata_a_2  ruota  Punteggio: 5.000  Difficolta':  12
+front_tuck  double_front_tuck  ribaltata_a_2  rondata  Punteggio: 5.200  Difficolta':  12
+front_tuck  double_front_tuck  front_tuck  Punteggio: 6.500  Difficolta':  12
+front_tuck  double_front_layout  Punteggio: 5.750  Difficolta':  10
+front_tuck  triple_front_tuck  Punteggio: 8.250  Difficolta':  11
+front_pike  Punteggio: 2.000  Difficolta':   4
+front_pike  ruota  Punteggio: 2.000  Difficolta':   5
+front_pike  ruota  back_handspring  Punteggio: 2.400  Difficolta':   7
+front_pike  ruota  back_handspring  back_handspring  Punteggio: 2.800  Difficolta':   9
+front_pike  ruota  back_handspring  back_handspring  back_handspring  Punteggio: 3.200  Difficolta':  11
+front_pike  ruota  back_handspring  back_handspring  back_tuck  Punteggio: 4.550  Difficolta':  12
+front_pike  ruota  back_handspring  back_tuck  Punteggio: 4.150  Difficolta':  10
+front_pike  ruota  back_handspring  back_tuck  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_pike  ruota  back_handspring  back_pike  Punteggio: 4.400  Difficolta':  11
+front_pike  ruota  back_handspring  back_layout  Punteggio: 4.650  Difficolta':  12
+front_pike  ruota  back_handspring  arabian  Punteggio: 4.900  Difficolta':  11
+front_pike  ruota  back_handspring  arabian  ruota  Punteggio: 4.900  Difficolta':  12
+front_pike  ruota  back_handspring  arabian  rondata  Punteggio: 5.100  Difficolta':  12
+front_pike  ruota  back_tuck  Punteggio: 3.750  Difficolta':   8
+front_pike  ruota  back_tuck  back_handspring  Punteggio: 4.150  Difficolta':  10
+front_pike  ruota  back_tuck  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_pike  ruota  back_tuck  back_tuck  Punteggio: 5.500  Difficolta':  11
+front_pike  ruota  back_tuck  back_pike  Punteggio: 5.750  Difficolta':  12
+front_pike  ruota  back_tuck  arabian  Punteggio: 6.250  Difficolta':  12
+front_pike  ruota  back_pike  Punteggio: 4.000  Difficolta':   9
+front_pike  ruota  back_pike  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_pike  ruota  back_pike  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_pike  ruota  back_layout  Punteggio: 4.250  Difficolta':  10
+front_pike  ruota  back_layout  back_handspring  Punteggio: 4.650  Difficolta':  12
+front_pike  ruota  double_back_tuck  Punteggio: 5.000  Difficolta':  11
+front_pike  ruota  double_back_layout  Punteggio: 6.000  Difficolta':  12
+front_pike  ruota  arabian  Punteggio: 4.500  Difficolta':   9
+front_pike  ruota  arabian  ruota  Punteggio: 4.500  Difficolta':  10
+front_pike  ruota  arabian  ruota  back_handspring  Punteggio: 4.900  Difficolta':  12
+front_pike  ruota  arabian  rondata  Punteggio: 4.700  Difficolta':  10
+front_pike  ruota  arabian  rondata  back_handspring  Punteggio: 5.100  Difficolta':  12
+front_pike  ruota  arabian  ribaltata_a_2  Punteggio: 4.750  Difficolta':  11
+front_pike  ruota  arabian  ribaltata_a_2  ruota  Punteggio: 4.750  Difficolta':  12
+front_pike  ruota  arabian  ribaltata_a_2  rondata  Punteggio: 4.950  Difficolta':  12
+front_pike  ruota  arabian  front_tuck  Punteggio: 6.250  Difficolta':  12
+front_pike  rondata  Punteggio: 2.200  Difficolta':   5
+front_pike  rondata  back_handspring  Punteggio: 2.600  Difficolta':   7
+front_pike  rondata  back_handspring  back_handspring  Punteggio: 3.000  Difficolta':   9
+front_pike  rondata  back_handspring  back_handspring  back_handspring  Punteggio: 3.400  Difficolta':  11
+front_pike  rondata  back_handspring  back_handspring  back_tuck  Punteggio: 4.750  Difficolta':  12
+front_pike  rondata  back_handspring  back_tuck  Punteggio: 4.350  Difficolta':  10
+front_pike  rondata  back_handspring  back_tuck  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_pike  rondata  back_handspring  back_pike  Punteggio: 4.600  Difficolta':  11
+front_pike  rondata  back_handspring  back_layout  Punteggio: 4.850  Difficolta':  12
+front_pike  rondata  back_handspring  arabian  Punteggio: 5.100  Difficolta':  11
+front_pike  rondata  back_handspring  arabian  ruota  Punteggio: 5.100  Difficolta':  12
+front_pike  rondata  back_handspring  arabian  rondata  Punteggio: 5.300  Difficolta':  12
+front_pike  rondata  back_tuck  Punteggio: 3.950  Difficolta':   8
+front_pike  rondata  back_tuck  back_handspring  Punteggio: 4.350  Difficolta':  10
+front_pike  rondata  back_tuck  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_pike  rondata  back_tuck  back_tuck  Punteggio: 5.700  Difficolta':  11
+front_pike  rondata  back_tuck  back_pike  Punteggio: 5.950  Difficolta':  12
+front_pike  rondata  back_tuck  arabian  Punteggio: 6.450  Difficolta':  12
+front_pike  rondata  back_pike  Punteggio: 4.200  Difficolta':   9
+front_pike  rondata  back_pike  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_pike  rondata  back_pike  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_pike  rondata  back_layout  Punteggio: 4.450  Difficolta':  10
+front_pike  rondata  back_layout  back_handspring  Punteggio: 4.850  Difficolta':  12
+front_pike  rondata  double_back_tuck  Punteggio: 5.200  Difficolta':  11
+front_pike  rondata  double_back_layout  Punteggio: 6.200  Difficolta':  12
+front_pike  rondata  arabian  Punteggio: 4.700  Difficolta':   9
+front_pike  rondata  arabian  ruota  Punteggio: 4.700  Difficolta':  10
+front_pike  rondata  arabian  ruota  back_handspring  Punteggio: 5.100  Difficolta':  12
+front_pike  rondata  arabian  rondata  Punteggio: 4.900  Difficolta':  10
+front_pike  rondata  arabian  rondata  back_handspring  Punteggio: 5.300  Difficolta':  12
+front_pike  rondata  arabian  ribaltata_a_2  Punteggio: 4.950  Difficolta':  11
+front_pike  rondata  arabian  ribaltata_a_2  ruota  Punteggio: 4.950  Difficolta':  12
+front_pike  rondata  arabian  ribaltata_a_2  rondata  Punteggio: 5.150  Difficolta':  12
+front_pike  rondata  arabian  front_tuck  Punteggio: 6.450  Difficolta':  12
+front_pike  ribaltata_a_2  Punteggio: 2.250  Difficolta':   6
+front_pike  ribaltata_a_2  ruota  Punteggio: 2.250  Difficolta':   7
+front_pike  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.650  Difficolta':   9
+front_pike  ribaltata_a_2  ruota  back_handspring  back_handspring  Punteggio: 3.050  Difficolta':  11
+front_pike  ribaltata_a_2  ruota  back_handspring  back_tuck  Punteggio: 4.400  Difficolta':  12
+front_pike  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.000  Difficolta':  10
+front_pike  ribaltata_a_2  ruota  back_tuck  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_pike  ribaltata_a_2  ruota  back_pike  Punteggio: 4.250  Difficolta':  11
+front_pike  ribaltata_a_2  ruota  back_layout  Punteggio: 4.500  Difficolta':  12
+front_pike  ribaltata_a_2  ruota  arabian  Punteggio: 4.750  Difficolta':  11
+front_pike  ribaltata_a_2  ruota  arabian  ruota  Punteggio: 4.750  Difficolta':  12
+front_pike  ribaltata_a_2  ruota  arabian  rondata  Punteggio: 4.950  Difficolta':  12
+front_pike  ribaltata_a_2  rondata  Punteggio: 2.450  Difficolta':   7
+front_pike  ribaltata_a_2  rondata  back_handspring  Punteggio: 2.850  Difficolta':   9
+front_pike  ribaltata_a_2  rondata  back_handspring  back_handspring  Punteggio: 3.250  Difficolta':  11
+front_pike  ribaltata_a_2  rondata  back_handspring  back_tuck  Punteggio: 4.600  Difficolta':  12
+front_pike  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.200  Difficolta':  10
+front_pike  ribaltata_a_2  rondata  back_tuck  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_pike  ribaltata_a_2  rondata  back_pike  Punteggio: 4.450  Difficolta':  11
+front_pike  ribaltata_a_2  rondata  back_layout  Punteggio: 4.700  Difficolta':  12
+front_pike  ribaltata_a_2  rondata  arabian  Punteggio: 4.950  Difficolta':  11
+front_pike  ribaltata_a_2  rondata  arabian  ruota  Punteggio: 4.950  Difficolta':  12
+front_pike  ribaltata_a_2  rondata  arabian  rondata  Punteggio: 5.150  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.500  Difficolta':   8
+front_pike  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':   9
+front_pike  ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.900  Difficolta':  11
+front_pike  ribaltata_a_2  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.250  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':   9
+front_pike  ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.100  Difficolta':  11
+front_pike  ribaltata_a_2  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.450  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':  10
+front_pike  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':  11
+front_pike  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':  11
+front_pike  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  11
+front_pike  ribaltata_a_2  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.250  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.450  Difficolta':  12
+front_pike  ribaltata_a_2  ribaltata_a_2  front_pike  Punteggio: 4.500  Difficolta':  12
+front_pike  ribaltata_a_2  front_tuck  Punteggio: 4.000  Difficolta':   9
+front_pike  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.000  Difficolta':  10
+front_pike  ribaltata_a_2  front_tuck  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_pike  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.200  Difficolta':  10
+front_pike  ribaltata_a_2  front_tuck  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_pike  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+front_pike  ribaltata_a_2  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+front_pike  ribaltata_a_2  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+front_pike  ribaltata_a_2  front_tuck  front_tuck  Punteggio: 5.750  Difficolta':  12
+front_pike  ribaltata_a_2  front_pike  Punteggio: 4.250  Difficolta':  10
+front_pike  ribaltata_a_2  front_pike  ruota  Punteggio: 4.250  Difficolta':  11
+front_pike  ribaltata_a_2  front_pike  rondata  Punteggio: 4.450  Difficolta':  11
+front_pike  ribaltata_a_2  front_pike  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_pike  ribaltata_a_2  front_layout  Punteggio: 4.500  Difficolta':  11
+front_pike  ribaltata_a_2  front_layout  ruota  Punteggio: 4.500  Difficolta':  12
+front_pike  ribaltata_a_2  front_layout  rondata  Punteggio: 4.700  Difficolta':  12
+front_pike  ribaltata_a_2  double_front_tuck  Punteggio: 5.250  Difficolta':  12
+front_pike  front_tuck  Punteggio: 3.750  Difficolta':   7
+front_pike  front_tuck  ruota  Punteggio: 3.750  Difficolta':   8
+front_pike  front_tuck  ruota  back_handspring  Punteggio: 4.150  Difficolta':  10
+front_pike  front_tuck  ruota  back_handspring  back_handspring  Punteggio: 4.550  Difficolta':  12
+front_pike  front_tuck  ruota  back_tuck  Punteggio: 5.500  Difficolta':  11
+front_pike  front_tuck  ruota  back_pike  Punteggio: 5.750  Difficolta':  12
+front_pike  front_tuck  ruota  arabian  Punteggio: 6.250  Difficolta':  12
+front_pike  front_tuck  rondata  Punteggio: 3.950  Difficolta':   8
+front_pike  front_tuck  rondata  back_handspring  Punteggio: 4.350  Difficolta':  10
+front_pike  front_tuck  rondata  back_handspring  back_handspring  Punteggio: 4.750  Difficolta':  12
+front_pike  front_tuck  rondata  back_tuck  Punteggio: 5.700  Difficolta':  11
+front_pike  front_tuck  rondata  back_pike  Punteggio: 5.950  Difficolta':  12
+front_pike  front_tuck  rondata  arabian  Punteggio: 6.450  Difficolta':  12
+front_pike  front_tuck  ribaltata_a_2  Punteggio: 4.000  Difficolta':   9
+front_pike  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.000  Difficolta':  10
+front_pike  front_tuck  ribaltata_a_2  ruota  back_handspring  Punteggio: 4.400  Difficolta':  12
+front_pike  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.200  Difficolta':  10
+front_pike  front_tuck  ribaltata_a_2  rondata  back_handspring  Punteggio: 4.600  Difficolta':  12
+front_pike  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.250  Difficolta':  11
+front_pike  front_tuck  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  12
+front_pike  front_tuck  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  12
+front_pike  front_tuck  ribaltata_a_2  front_tuck  Punteggio: 5.750  Difficolta':  12
+front_pike  front_tuck  front_tuck  Punteggio: 5.500  Difficolta':  10
+front_pike  front_tuck  front_tuck  ruota  Punteggio: 5.500  Difficolta':  11
+front_pike  front_tuck  front_tuck  rondata  Punteggio: 5.700  Difficolta':  11
+front_pike  front_tuck  front_tuck  ribaltata_a_2  Punteggio: 5.750  Difficolta':  12
+front_pike  front_tuck  front_pike  Punteggio: 5.750  Difficolta':  11
+front_pike  front_tuck  front_pike  ruota  Punteggio: 5.750  Difficolta':  12
+front_pike  front_tuck  front_pike  rondata  Punteggio: 5.950  Difficolta':  12
+front_pike  front_tuck  front_layout  Punteggio: 6.000  Difficolta':  12
+front_pike  front_pike  Punteggio: 4.000  Difficolta':   8
+front_pike  front_pike  ruota  Punteggio: 4.000  Difficolta':   9
+front_pike  front_pike  ruota  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_pike  front_pike  ruota  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_pike  front_pike  rondata  Punteggio: 4.200  Difficolta':   9
+front_pike  front_pike  rondata  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_pike  front_pike  rondata  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_pike  front_pike  ribaltata_a_2  Punteggio: 4.250  Difficolta':  10
+front_pike  front_pike  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  11
+front_pike  front_pike  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  11
+front_pike  front_pike  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_pike  front_pike  front_tuck  Punteggio: 5.750  Difficolta':  11
+front_pike  front_pike  front_tuck  ruota  Punteggio: 5.750  Difficolta':  12
+front_pike  front_pike  front_tuck  rondata  Punteggio: 5.950  Difficolta':  12
+front_pike  front_pike  front_pike  Punteggio: 6.000  Difficolta':  12
+front_pike  front_layout  Punteggio: 4.250  Difficolta':   9
+front_pike  front_layout  ruota  Punteggio: 4.250  Difficolta':  10
+front_pike  front_layout  ruota  back_handspring  Punteggio: 4.650  Difficolta':  12
+front_pike  front_layout  rondata  Punteggio: 4.450  Difficolta':  10
+front_pike  front_layout  rondata  back_handspring  Punteggio: 4.850  Difficolta':  12
+front_pike  front_layout  ribaltata_a_2  Punteggio: 4.500  Difficolta':  11
+front_pike  front_layout  ribaltata_a_2  ruota  Punteggio: 4.500  Difficolta':  12
+front_pike  front_layout  ribaltata_a_2  rondata  Punteggio: 4.700  Difficolta':  12
+front_pike  front_layout  front_tuck  Punteggio: 6.000  Difficolta':  12
+front_pike  double_front_tuck  Punteggio: 5.000  Difficolta':  10
+front_pike  double_front_tuck  ruota  Punteggio: 5.000  Difficolta':  11
+front_pike  double_front_tuck  rondata  Punteggio: 5.200  Difficolta':  11
+front_pike  double_front_tuck  ribaltata_a_2  Punteggio: 5.250  Difficolta':  12
+front_pike  double_front_layout  Punteggio: 6.000  Difficolta':  11
+front_pike  triple_front_tuck  Punteggio: 8.500  Difficolta':  12
+front_layout  Punteggio: 2.250  Difficolta':   5
+front_layout  ruota  Punteggio: 2.250  Difficolta':   6
+front_layout  ruota  back_handspring  Punteggio: 2.650  Difficolta':   8
+front_layout  ruota  back_handspring  back_handspring  Punteggio: 3.050  Difficolta':  10
+front_layout  ruota  back_handspring  back_handspring  back_handspring  Punteggio: 3.450  Difficolta':  12
+front_layout  ruota  back_handspring  back_tuck  Punteggio: 4.400  Difficolta':  11
+front_layout  ruota  back_handspring  back_pike  Punteggio: 4.650  Difficolta':  12
+front_layout  ruota  back_handspring  arabian  Punteggio: 5.150  Difficolta':  12
+front_layout  ruota  back_tuck  Punteggio: 4.000  Difficolta':   9
+front_layout  ruota  back_tuck  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_layout  ruota  back_tuck  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_layout  ruota  back_pike  Punteggio: 4.250  Difficolta':  10
+front_layout  ruota  back_pike  back_handspring  Punteggio: 4.650  Difficolta':  12
+front_layout  ruota  back_layout  Punteggio: 4.500  Difficolta':  11
+front_layout  ruota  double_back_tuck  Punteggio: 5.250  Difficolta':  12
+front_layout  ruota  arabian  Punteggio: 4.750  Difficolta':  10
+front_layout  ruota  arabian  ruota  Punteggio: 4.750  Difficolta':  11
+front_layout  ruota  arabian  rondata  Punteggio: 4.950  Difficolta':  11
+front_layout  ruota  arabian  ribaltata_a_2  Punteggio: 5.000  Difficolta':  12
+front_layout  rondata  Punteggio: 2.450  Difficolta':   6
+front_layout  rondata  back_handspring  Punteggio: 2.850  Difficolta':   8
+front_layout  rondata  back_handspring  back_handspring  Punteggio: 3.250  Difficolta':  10
+front_layout  rondata  back_handspring  back_handspring  back_handspring  Punteggio: 3.650  Difficolta':  12
+front_layout  rondata  back_handspring  back_tuck  Punteggio: 4.600  Difficolta':  11
+front_layout  rondata  back_handspring  back_pike  Punteggio: 4.850  Difficolta':  12
+front_layout  rondata  back_handspring  arabian  Punteggio: 5.350  Difficolta':  12
+front_layout  rondata  back_tuck  Punteggio: 4.200  Difficolta':   9
+front_layout  rondata  back_tuck  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_layout  rondata  back_tuck  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_layout  rondata  back_pike  Punteggio: 4.450  Difficolta':  10
+front_layout  rondata  back_pike  back_handspring  Punteggio: 4.850  Difficolta':  12
+front_layout  rondata  back_layout  Punteggio: 4.700  Difficolta':  11
+front_layout  rondata  double_back_tuck  Punteggio: 5.450  Difficolta':  12
+front_layout  rondata  arabian  Punteggio: 4.950  Difficolta':  10
+front_layout  rondata  arabian  ruota  Punteggio: 4.950  Difficolta':  11
+front_layout  rondata  arabian  rondata  Punteggio: 5.150  Difficolta':  11
+front_layout  rondata  arabian  ribaltata_a_2  Punteggio: 5.200  Difficolta':  12
+front_layout  ribaltata_a_2  Punteggio: 2.500  Difficolta':   7
+front_layout  ribaltata_a_2  ruota  Punteggio: 2.500  Difficolta':   8
+front_layout  ribaltata_a_2  ruota  back_handspring  Punteggio: 2.900  Difficolta':  10
+front_layout  ribaltata_a_2  ruota  back_handspring  back_handspring  Punteggio: 3.300  Difficolta':  12
+front_layout  ribaltata_a_2  ruota  back_tuck  Punteggio: 4.250  Difficolta':  11
+front_layout  ribaltata_a_2  ruota  back_pike  Punteggio: 4.500  Difficolta':  12
+front_layout  ribaltata_a_2  ruota  arabian  Punteggio: 5.000  Difficolta':  12
+front_layout  ribaltata_a_2  rondata  Punteggio: 2.700  Difficolta':   8
+front_layout  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.100  Difficolta':  10
+front_layout  ribaltata_a_2  rondata  back_handspring  back_handspring  Punteggio: 3.500  Difficolta':  12
+front_layout  ribaltata_a_2  rondata  back_tuck  Punteggio: 4.450  Difficolta':  11
+front_layout  ribaltata_a_2  rondata  back_pike  Punteggio: 4.700  Difficolta':  12
+front_layout  ribaltata_a_2  rondata  arabian  Punteggio: 5.200  Difficolta':  12
+front_layout  ribaltata_a_2  ribaltata_a_2  Punteggio: 2.750  Difficolta':   9
+front_layout  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 2.750  Difficolta':  10
+front_layout  ribaltata_a_2  ribaltata_a_2  ruota  back_handspring  Punteggio: 3.150  Difficolta':  12
+front_layout  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 2.950  Difficolta':  10
+front_layout  ribaltata_a_2  ribaltata_a_2  rondata  back_handspring  Punteggio: 3.350  Difficolta':  12
+front_layout  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  Punteggio: 3.000  Difficolta':  11
+front_layout  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  ruota  Punteggio: 3.000  Difficolta':  12
+front_layout  ribaltata_a_2  ribaltata_a_2  ribaltata_a_2  rondata  Punteggio: 3.200  Difficolta':  12
+front_layout  ribaltata_a_2  ribaltata_a_2  front_tuck  Punteggio: 4.500  Difficolta':  12
+front_layout  ribaltata_a_2  front_tuck  Punteggio: 4.250  Difficolta':  10
+front_layout  ribaltata_a_2  front_tuck  ruota  Punteggio: 4.250  Difficolta':  11
+front_layout  ribaltata_a_2  front_tuck  rondata  Punteggio: 4.450  Difficolta':  11
+front_layout  ribaltata_a_2  front_tuck  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_layout  ribaltata_a_2  front_pike  Punteggio: 4.500  Difficolta':  11
+front_layout  ribaltata_a_2  front_pike  ruota  Punteggio: 4.500  Difficolta':  12
+front_layout  ribaltata_a_2  front_pike  rondata  Punteggio: 4.700  Difficolta':  12
+front_layout  ribaltata_a_2  front_layout  Punteggio: 4.750  Difficolta':  12
+front_layout  front_tuck  Punteggio: 4.000  Difficolta':   8
+front_layout  front_tuck  ruota  Punteggio: 4.000  Difficolta':   9
+front_layout  front_tuck  ruota  back_handspring  Punteggio: 4.400  Difficolta':  11
+front_layout  front_tuck  ruota  back_tuck  Punteggio: 5.750  Difficolta':  12
+front_layout  front_tuck  rondata  Punteggio: 4.200  Difficolta':   9
+front_layout  front_tuck  rondata  back_handspring  Punteggio: 4.600  Difficolta':  11
+front_layout  front_tuck  rondata  back_tuck  Punteggio: 5.950  Difficolta':  12
+front_layout  front_tuck  ribaltata_a_2  Punteggio: 4.250  Difficolta':  10
+front_layout  front_tuck  ribaltata_a_2  ruota  Punteggio: 4.250  Difficolta':  11
+front_layout  front_tuck  ribaltata_a_2  rondata  Punteggio: 4.450  Difficolta':  11
+front_layout  front_tuck  ribaltata_a_2  ribaltata_a_2  Punteggio: 4.500  Difficolta':  12
+front_layout  front_tuck  front_tuck  Punteggio: 5.750  Difficolta':  11
+front_layout  front_tuck  front_tuck  ruota  Punteggio: 5.750  Difficolta':  12
+front_layout  front_tuck  front_tuck  rondata  Punteggio: 5.950  Difficolta':  12
+front_layout  front_tuck  front_pike  Punteggio: 6.000  Difficolta':  12
+front_layout  front_pike  Punteggio: 4.250  Difficolta':   9
+front_layout  front_pike  ruota  Punteggio: 4.250  Difficolta':  10
+front_layout  front_pike  ruota  back_handspring  Punteggio: 4.650  Difficolta':  12
+front_layout  front_pike  rondata  Punteggio: 4.450  Difficolta':  10
+front_layout  front_pike  rondata  back_handspring  Punteggio: 4.850  Difficolta':  12
+front_layout  front_pike  ribaltata_a_2  Punteggio: 4.500  Difficolta':  11
+front_layout  front_pike  ribaltata_a_2  ruota  Punteggio: 4.500  Difficolta':  12
+front_layout  front_pike  ribaltata_a_2  rondata  Punteggio: 4.700  Difficolta':  12
+front_layout  front_pike  front_tuck  Punteggio: 6.000  Difficolta':  12
+front_layout  front_layout  Punteggio: 4.500  Difficolta':  10
+front_layout  front_layout  ruota  Punteggio: 4.500  Difficolta':  11
+front_layout  front_layout  rondata  Punteggio: 4.700  Difficolta':  11
+front_layout  front_layout  ribaltata_a_2  Punteggio: 4.750  Difficolta':  12
+front_layout  double_front_tuck  Punteggio: 5.250  Difficolta':  11
+front_layout  double_front_tuck  ruota  Punteggio: 5.250  Difficolta':  12
+front_layout  double_front_tuck  rondata  Punteggio: 5.450  Difficolta':  12
+front_layout  double_front_layout  Punteggio: 6.250  Difficolta':  12

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "titolo.h": "c",
+        "cstdlib": "c",
+        "*.tcc": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc *.c -g -o file.exe && .\\file.exe",
+    }
+}
